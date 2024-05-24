@@ -4,9 +4,4 @@
    "devices": ["220233L2G84E4856E36E4ECBF"],
    "expiry": "25-05-2024 12:00 PM"
 },
-"iboen": {
-   "password": "$2y$12$62IV7beeF/EDKZV4e579heAolELJRdapI8Sq4JMTThdNyGAuEibOq",
-   "devices": ["POCOPHONEF1FEC60E81C70BE46F"],
-   "expiry": "25-05-2024 10:00 AM"
-},
 }
