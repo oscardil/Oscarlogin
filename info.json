@@ -1,14 +1,12 @@
 {
-"iboen": {
-   "password": "$2y$12$jaD9oiKWMNVzbb0gUFCUqu0s9HnPCJVdZc0YEaXJOpFLAZVPHIy56",
-   "devices": [],
-   "expiry": "25-05-2024 12:59 PM"
-},
-}
-{
 "beryl": {
    "password": "$2y$12$DqIR9AUsyUgs1jWi39jHjejtBs1qcRQbHciEgLU8vxnSmcni7lVoy",
    "devices": ["220233L2G84E4856E36E4ECBF"],
    "expiry": "25-05-2024 12:00 PM"
+},
+"iboen": {
+   "password": "$2y$12$jaD9oiKWMNVzbb0gUFCUqu0s9HnPCJVdZc0YEaXJOpFLAZVPHIy56",
+   "devices": [],
+   "expiry": "25-05-2024 12:59 PM"
 },
 }
