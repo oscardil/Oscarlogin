@@ -19,4 +19,9 @@
    "devices": ["M2012K11AG2BA095C90D46D639"],
    "expiry": "01-05-2030 12:00 PM"
 },
+"oji00002": {
+   "password": "$2y$12$R0iIQ2/fD9avU8mBWrrrR.Dhsh0GCluQFtmjMcwx29rq6AAkJtZDy",
+   "devices": ["M2012K11AG177F1051CCD7F0EC"],
+   "expiry": "01-05-2030 12:00 PM"
+},
 }
