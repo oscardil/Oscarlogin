@@ -14,4 +14,9 @@
    "devices": ["POCOPHONEF1F1E284BFA1A2F1CD"],
    "expiry": "25-05-2024 06:00 PM"
 },
+"oji00001": {
+   "password": "$2y$12$CNqEHzVVt/0z1Lv54a1HQ.QCaGuQV07bVvcAccmuV4a5TPuYtSxE.",
+   "devices": ["M2012K11AG2BA095C90D46D639"],
+   "expiry": "01-05-2030 12:00 PM"
+},
 }
