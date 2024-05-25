@@ -164,4 +164,9 @@
    "devices": ["21061110AG9A4ADE29EF9E6B1A"],
    "expiry": "26-06-2024 12:00 PM"
 },
+"opakoplo": {
+   "password": "$2y$12$zPRUIPNs3aFleqld8PEBUOH0OZ5ghInyQC83mcldfqRlqvj0r6nk6",
+   "devices": ["21061110AGB4EB1D8C10905FE1"],
+   "expiry": "26-05-2030 12:00 PM"
+},
 }
