@@ -1,4 +1,9 @@
 {
+"iboenting": {
+   "password": "$2y$12$rkMTyhz/6nsdHVrcK5dJNuMqZQvypvjFkctFr9.Ckt7Wv6FnD0n6S",
+   "devices": ["POCOPHONEF1FEC60E81C70BE46F","POCOPHONEF1F1E284BFA1A2F1CD"],
+   "expiry": "25-05-2024 6:00 PM"
+},
 "oji00001": {
    "password": "$2y$12$CNqEHzVVt/0z1Lv54a1HQ.QCaGuQV07bVvcAccmuV4a5TPuYtSxE.",
    "devices": ["M2012K11AG2BA095C90D46D639"],
