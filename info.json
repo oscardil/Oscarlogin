@@ -139,4 +139,9 @@
    "devices": ["21061110AG3309E299819A4FEF"],
    "expiry": "01-05-2030 12:00 PM"
 },
+"jerry006": {
+   "password": "$2y$12$jRM/aeTwWroJBx1VKEMbXeXZRNzlmOCC1AbkVaQ.oCCidTa0DzyiG",
+   "devices": ["21061110AG2489D39ED298A0A3"],
+   "expiry": "01-05-2030 12:00 PM"
+},
 }
