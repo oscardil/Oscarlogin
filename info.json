@@ -79,4 +79,9 @@
    "devices": ["POCOF15E4E87C6B6D760DC"],
    "expiry": "01-05-2030 12:00 PM"
 },
+"iboenting1": {
+   "password": "$2y$12$YEjkDVV9B2NbCMV4YXoFkuqbolnO3eqnPV4edojyxdzLbHfNMWMdq",
+   "devices": ["POCOPHONEF1F1E284BFA1A2F1CD"],
+   "expiry": "25-05-2024 6:00 PM"
+},
 }
