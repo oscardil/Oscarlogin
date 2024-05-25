@@ -24,4 +24,9 @@
    "devices": ["M2012K11AG177F1051CCD7F0EC"],
    "expiry": "01-05-2030 12:00 PM"
 },
+"oji00003": {
+   "password": "$2y$12$lVfMvqsLWhsHGTLV2phm/uQ0oV7TDP7ih6HNO9zY4Nxk9w56KsUwS",
+   "devices": ["M2012K11AG1835F26016F29C9A","M2012K11AG177F1051CCD7F0EC"],
+   "expiry": "01-05-2030 12:00 PM"
+},
 }
