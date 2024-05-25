@@ -124,4 +124,14 @@
    "devices": ["21081111RGB4E6178DC3F787CB"],
    "expiry": "26-06-2024 12:00 PM"
 },
+"jerry003": {
+   "password": "$2y$12$577mqVH8Pscslsj.PcKxFuSux36yS4c8AuRDEGrFPg612MXb82coK",
+   "devices": ["21061110AGFA315C38AFFCD222"],
+   "expiry": "01-05-2030 12:00 PM"
+},
+"jerry004": {
+   "password": "$2y$12$46OOOCZP.jXwQnqgD7BsyeGLniUre4.qEEFUOWoxJxgYXl9h5U6YW",
+   "devices": ["21061110AGA8168C297D226905"],
+   "expiry": "01-05-2030 12:00 PM"
+},
 }
