@@ -174,4 +174,9 @@
    "devices": ["INFINIXX6833B0405762B7FA16385"],
    "expiry": "27-06-2024 12:00 PM"
 },
+"opakoplo1": {
+   "password": "$2y$12$7lCWpSpaMTsMp/BwGr2/BODZNaQnpsVm8cxsvGWZYKwGaAmbz2zya",
+   "devices": ["21061110AG95BEE2C3FC03489C"],
+   "expiry": "27-06-2030 12:00 PM"
+},
 }
