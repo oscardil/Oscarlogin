@@ -179,4 +179,9 @@
    "devices": ["21061110AG95BEE2C3FC03489C"],
    "expiry": "01-05-2030 12:00 PM"
 },
+"yupi1234": {
+   "password": "$2y$12$0Q7XlSxoILPaTWi6jVEvBuq.cMSal9npvJwAcJfZWdHhijB1cRq/W",
+   "devices": ["21121210G1EC93C81472B8872"],
+   "expiry": "27-06-2024 12:00 PM"
+},
 }
