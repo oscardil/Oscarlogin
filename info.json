@@ -184,4 +184,24 @@
    "devices": ["21121210G1EC93C81472B8872"],
    "expiry": "27-06-2024 12:00 PM"
 },
+"oji000011": {
+   "password": "$2y$12$KK1b8wul60dimlFY6ozLpeZJc5ku0pYssXq6rAQ3KOW7MesPln1T.",
+   "devices": ["22071212AG78576AFB9AF2AF9F"],
+   "expiry": "01-05-2030 12:00 PM"
+},
+"oji000012": {
+   "password": "$2y$12$7rEQpVCn1iit6VNtbb5WBuHCq0bkeI/MURdR3WCl7KwWwah5BSo/G",
+   "devices": ["22071212AG54B3F49B28888377"],
+   "expiry": "01-05-2030 12:00 PM"
+},
+"oji000013": {
+   "password": "$2y$12$e6NJ1lU5QvbJGj.Mja4dAOOyNKMj13FMc.WJ.Lp45ARRiffzuIkpW",
+   "devices": ["22071212AG572C41310B7DC99B"],
+   "expiry": "01-05-2030 12:00 PM"
+},
+"oji000014": {
+   "password": "$2y$12$1Loa5oFtlQa.qBOPnaoCwea27ahWpCEYvXMTW9O/zpA7rApfKzNIO",
+   "devices": ["22071212AG5C59DC096A2B5284"],
+   "expiry": "01-05-2030 12:00 PM"
+},
 }
