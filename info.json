@@ -239,4 +239,9 @@
    "devices": ["M2012K11AG7C1CD2067DCD7D4D"],
    "expiry": "01-05-2030 12:00 PM"
 },
+"testis123": {
+   "password": "$2y$12$l4oPgeX3DVIlWf6YHRVPMuoLaQ4NuPm24xh3krheJ0ITaH6NpZ1u2",
+   "devices": ["21061110AG55189774091F706C"],
+   "expiry": "31-05-2024 12:00 PM"
+},
 }
