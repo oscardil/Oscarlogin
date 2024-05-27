@@ -244,4 +244,14 @@
    "devices": ["INFINIXX6815D0C57D102F9896EAB"],
    "expiry": "28-06-2024 12:00 PM"
 },
+"oparoman1": {
+   "password": "$2y$12$6qGWLe3loqN8iupxmpRDye75eTWhz9VNsSeiNS8jM.etuCw63bL9K",
+   "devices": ["22101316G4B09BE4557B4FA93"],
+   "expiry": "28-06-2024 12:00 PM"
+},
+"oparoman2": {
+   "password": "$2y$12$3zqMjCqgy9pnsCwRWoWz9u.vtmTYfJensQN/diHB1EG4EATg7lr.G",
+   "devices": ["22101316G90D58067A3AF2B76"],
+   "expiry": "28-06-2024 12:00 PM"
+},
 }
