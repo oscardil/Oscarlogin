@@ -209,4 +209,9 @@
    "devices": ["REDMINOTE9PRO880AA7C09536B1F4"],
    "expiry": "01-05-2030 12:00 PM"
 },
+"abdi0002": {
+   "password": "$2y$12$RMmQ6UHHH.ip8vWpQQRlpetWjZVNNBd3dFQF4Q/IbKr3N5yVmFmJi",
+   "devices": ["M2012K11AGD39F9E0848307153"],
+   "expiry": "01-05-2030 12:00 PM"
+},
 }
