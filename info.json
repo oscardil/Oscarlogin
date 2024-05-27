@@ -219,4 +219,9 @@
    "devices": ["M2012K11AG7B6D57F53684368E"],
    "expiry": "01-05-2030 12:00 PM"
 },
+"hence0001": {
+   "password": "$2y$12$C4xyz16ZQVnmNrqXGJtCIe0vhM3ezyEcTcXXFIUUpDRHgtmrN6yY6",
+   "devices": ["INFINIXX690B363E8F719DF7AE60"],
+   "expiry": "01-05-2030 12:00 PM"
+},
 }
