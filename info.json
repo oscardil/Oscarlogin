@@ -224,4 +224,14 @@
    "devices": ["INFINIXX690B363E8F719DF7AE60"],
    "expiry": "01-05-2030 12:00 PM"
 },
+"momsky002": {
+   "password": "$2y$12$zPGrJsj3CQDZ8XZhNVGOPeBAk5IEUYp8gfvwFZZrJXnA4yruuNXaq",
+   "devices": ["2201117PGA221D02D24BB9FF6"],
+   "expiry": "01-05-2030 12:00 PM"
+},
+"momsky003": {
+   "password": "$2y$12$4apJkO8D.FqoPgoZlvjP5.qvjvK.O4JLomQQR.qXWC80QIejD7bK2",
+   "devices": ["M2012K11AG052C6361788BD61F"],
+   "expiry": "01-05-2030 12:00 PM"
+},
 }
