@@ -279,4 +279,19 @@
    "devices": ["21061110AG38E89CEDB965A8D4"],
    "expiry": "29-06-2024 12:00 PM"
 },
+"ian00003": {
+   "password": "$2y$12$rFC24v9kcAXhRR0oZJtu3OZmaSKuT4bmUZ8rnp4LisVpM38ZFBVsC",
+   "devices": ["21061110AGA984D35AA169768F"],
+   "expiry": "29-06-2024 12:00 PM"
+},
+"fandev001": {
+   "password": "$2y$12$NbnfBMWg1ee8xzs9FE.33.gPEGz9Obz5aa7dJqVqzQ.FrfR9gCp2a",
+   "devices": ["22071212AG52A4DF0ABEA7D4F9"],
+   "expiry": "29-06-2024 12:00 PM"
+},
+"fandev002": {
+   "password": "$2y$12$KL2JZdj3zDoqs2BG3E4/tuRJ1GAR9gjbTGqWghxIZZKy8VGidxCVy",
+   "devices": ["22071212AG12581BE2C5B28130"],
+   "expiry": "29-06-2024 12:00 PM"
+},
 }
