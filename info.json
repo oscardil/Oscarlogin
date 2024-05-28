@@ -254,4 +254,9 @@
    "devices": ["22101316G90D58067A3AF2B76"],
    "expiry": "28-06-2024 12:00 PM"
 },
+"aldy0001": {
+   "password": "$2y$12$tZN/pFGItTQzL7qRyGhWUe90FwB5Bd2RrK82rzTwewtzATU31rfLS",
+   "devices": ["21061110AG7F5FB35C0FCE0A73"],
+   "expiry": "01-05-2030 12:00 PM"
+},
 }
