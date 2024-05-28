@@ -294,4 +294,9 @@
    "devices": ["22071212AG12581BE2C5B28130"],
    "expiry": "29-06-2024 12:00 PM"
 },
+"mahdunk01": {
+   "password": "$2y$12$Bky0pxQTBpVzprYgaSn46u9zZXcGVRSJ7TI6fKqeAwb6sBlC/RTNW",
+   "devices": ["M2103K19G - 6833da3d55eff593"],
+   "expiry": "29-06-2024 12:00 PM"
+},
 }
