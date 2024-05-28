@@ -344,4 +344,14 @@
    "devices": ["INFINIXX6837B26B13459A1DA996"],
    "expiry": "01-05-2030 12:00 PM"
 },
+"prodakcina2": {
+   "password": "$2y$12$PY6glydYNRcd0jsu12DQIOG5C5XAEUw6TYRZAs9glu0GhvmQzy5QG",
+   "devices": ["21081111RG48A271D37A8A4C4A"],
+   "expiry": "01-05-2030 12:00 PM"
+},
+"prodakcina3": {
+   "password": "$2y$12$GdwkgxnO3tXi4Pus/rFs4eIpWipbZ6s/DkmRbi1Hnd1XzQ.Hs.F/m",
+   "devices": ["21081111RG96A1A5027A622A69"],
+   "expiry": "01-05-2030 12:00 PM"
+},
 }
