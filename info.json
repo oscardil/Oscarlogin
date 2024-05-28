@@ -259,4 +259,19 @@
    "devices": ["21061110AG7F5FB35C0FCE0A73"],
    "expiry": "01-05-2030 12:00 PM"
 },
+"aldy0002": {
+   "password": "$2y$12$0sjqTG86oCuPskWmB8oHg.P29ZtqLQCOEegHMDkh8y.NG8xLM9xEi",
+   "devices": ["21061110AG5C3A54767DE380DA"],
+   "expiry": "01-05-2030 12:00 PM"
+},
+"aldy0003": {
+   "password": "$2y$12$RKJ47tj8D7P3MAVTQcNYleo4lpRct.D1TDrlo4lEAriGK5x8U/GEG",
+   "devices": ["21061110AG700B61AB568C4562"],
+   "expiry": "01-05-2030 12:00 PM"
+},
+"aldy0004": {
+   "password": "$2y$12$0OM.zcu5Bha5SF/6LsDc7.eFlNARuJwrxZBdRItXnrcxWZ3Q6i3Tq",
+   "devices": ["21061110AGE809CEBD1594F1E3"],
+   "expiry": "01-05-2030 12:00 PM"
+},
 }
