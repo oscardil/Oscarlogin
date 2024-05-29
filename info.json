@@ -359,4 +359,9 @@
    "devices": ["22071212AG647086233E521599"],
    "expiry": "01-05-2030 12:00 PM"
 },
+"jemmy001": {
+   "password": "$2y$12$mnYSC6kZFAfwioFl9xY2WOOYnfXYIpRcRnL.OPFKGlXrXSjwnqCWK",
+   "devices": ["INFINIXX6833B71072C49A66E6B76"],
+   "expiry": "30-06-2024 12:00 PM"
+},
 }
