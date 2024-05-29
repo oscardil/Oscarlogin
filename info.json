@@ -369,4 +369,9 @@
    "devices": ["INFINIXX6821A66D9AA9B26D853C"],
    "expiry": "30-06-2024 12:00 PM"
 },
+"gabs0001": {
+   "password": "$2y$12$U8jQIMpyUy1ljAIYUNVrbeBtHLnnsAL0AcM7mg56cG/Xk1PUMurDC",
+   "devices": ["22071212AG555020C9BCF36BEE"],
+   "expiry": "30-06-2024 12:00 PM"
+},
 }
