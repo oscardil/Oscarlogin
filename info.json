@@ -464,4 +464,9 @@
    "devices": ["2312DRA50G2485BC1143873B3B"],
    "expiry": "30-06-2024 12:00 PM"
 },
+"rusli001": {
+   "password": "$2y$12$v4M4Ibw3Do7TB8OHzcH4IesTWfXA0KKz4i5ksjwHUzB8p5GdNvIU.",
+   "devices": ["M2012K11AG8054AD0176918A27"],
+   "expiry": "30-06-2024 12:00 PM"
+},
 }
