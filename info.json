@@ -434,4 +434,9 @@
    "devices": ["21061110AGB5F901D975A0FEDD"],
    "expiry": "30-06-2030 12:00 PM"
 },
+"momsky009": {
+   "password": "$2y$12$hPzWNmkGfvLIUPJjw.bhbuS/p8NRKEyoWc7qTWcNbizGR87ShIhnm",
+   "devices": ["21061110AG216FED0C2FBF0C63"],
+   "expiry": "01-05-2030 12:00 PM"
+},
 }
