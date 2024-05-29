@@ -364,4 +364,9 @@
    "devices": ["INFINIXX6833B71072C49A66E6B76"],
    "expiry": "30-06-2024 12:00 PM"
 },
+"indraserver": {
+   "password": "$2y$12$LBxePx8s7wkJvFfPNDIA5O50yXTMET6eDYctIKi2MAmEGAXsf4a2W",
+   "devices": ["INFINIXX6821A66D9AA9B26D853C"],
+   "expiry": "30-06-2024 12:00 PM"
+},
 }
