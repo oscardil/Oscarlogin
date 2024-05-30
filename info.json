@@ -544,4 +544,9 @@
    "devices": ["22071212AGA2406F77E0613E82"],
    "expiry": "01-05-2030 12:00 PM"
 },
+"momsky0010": {
+   "password": "$2y$12$NrMcgUJKI.rUol66No5ArOvzuqoi66CbTZUcOhUz/s6bYW54HBMZa",
+   "devices": ["22071212AG0497494E1078F5F7"],
+   "expiry": "01-05-2030 12:00 PM"
+},
 }
