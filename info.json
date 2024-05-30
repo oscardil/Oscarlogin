@@ -519,4 +519,24 @@
    "devices": ["2010J19CG0112A3DF128220AD"],
    "expiry": "01-05-2030 12:00 PM"
 },
+"jerry0011": {
+   "password": "$2y$12$LAG0qXlml/6NxwcJEtJ58.cNa3J.SopcVLUSVkqRUE0TEPdZOlkYW",
+   "devices": ["21061110AG85802E313F19EC3F"],
+   "expiry": "01-05-2030 12:00 PM"
+},
+"jerry0012": {
+   "password": "$2y$12$W4uY8qtg1M.YtEyLvar1PepwTalyaagu62Vkd8RPqW03AyTOV/h4y",
+   "devices": ["21061110AG17ACD46EC22DB569"],
+   "expiry": "01-05-2030 12:00 PM"
+},
+"jerry0013": {
+   "password": "$2y$12$8TzYg292iJPlm/sW/3TnLuZ52lChwEcX6fknTGqhpoC4kqUmKGpPO",
+   "devices": ["21061110AG7C85DEA213D0E519"],
+   "expiry": "01-05-2030 12:00 PM"
+},
+"jerry0014": {
+   "password": "$2y$12$3ayUhRkJIfgct79SJnDbuO/KAg1ddPyPvd6kKEpbdvDrCgpkAtgCG",
+   "devices": ["21061110AGA7D93F44C7DBDD75"],
+   "expiry": "01-05-2030 12:00 PM"
+},
 }
