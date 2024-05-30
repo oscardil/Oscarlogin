@@ -499,4 +499,9 @@
    "devices": ["2311DRK48G8B30C8EC3526FE8A"],
    "expiry": "01-05-2030 12:00 PM"
 },
+"didi0002": {
+   "password": "$2y$12$iQwhn063NLOYDOv5iAvRA.OGbCahY7ueHNn8f6zrxWy4Q6AEDEO3m",
+   "devices": ["M2012K11AGA52B8127D35938C8"],
+   "expiry": "30-06-2024 10:59 PM"
+},
 }
