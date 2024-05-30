@@ -469,4 +469,14 @@
    "devices": ["M2012K11AG8054AD0176918A27"],
    "expiry": "30-06-2024 12:00 PM"
 },
+"jerry009": {
+   "password": "$2y$12$rNi1YvuWra8bfn8WZd4.JOkrRMzAGuLtDbPNfiQeZyKhZlMG/hKIi",
+   "devices": ["21061110AGF55887843396C73C"],
+   "expiry": "01-05-2030 12:00 PM"
+},
+"jerry0010": {
+   "password": "$2y$12$geccviEo8BidOu1EuaU6aOc.RIFPjRPybVcShNSgMlzM/NcYS939i",
+   "devices": ["21061110AG2ABE61631FE8EA53"],
+   "expiry": "01-05-2030 12:00 PM"
+},
 }
