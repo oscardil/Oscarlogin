@@ -549,4 +549,14 @@
    "devices": ["22071212AG0497494E1078F5F7"],
    "expiry": "01-05-2030 12:00 PM"
 },
+"dadang06": {
+   "password": "$2y$12$Ts3bPq.M1Iu8jsK.Jm0OxuvjIuoHsZtga/55afd.T5SRE7wZwCdOu",
+   "devices": ["M2101K6G95406FBE43122E71"],
+   "expiry": "01-05-2030 12:00 PM"
+},
+"dadang07": {
+   "password": "$2y$12$SkfwSabjrCxfy.bmn6.a0uxqaujXTnN1DnCowEZXyL6R04oYZfSyK",
+   "devices": ["2107113SG330A71E570290B63"],
+   "expiry": "01-05-2030 12:00 PM"
+},
 }
