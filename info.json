@@ -564,4 +564,29 @@
    "devices": ["21061110AG88EA7C7EE3358FBD"],
    "expiry": "01-05-2030 12:00 PM"
 },
+"jerry0015": {
+   "password": "$2y$12$l8RNP7WzQEXUzfeClkzUE.Rq1AkFKXtaiEoI.wZy/9X0rH0BWq2Du",
+   "devices": ["21061110AG8A8775110220545D"],
+   "expiry": "01-05-2030 12:00 PM"
+},
+"jerry0016": {
+   "password": "$2y$12$qx6ePvyTroFogh1uOMt8qu7Eo0aeGwBt7sMaHQCpQ9yfxQyAKZrce",
+   "devices": ["21061110AGE7B8D1DA45AC88F8"],
+   "expiry": "01-05-2030 12:00 PM"
+},
+"jerry0017": {
+   "password": "$2y$12$XlGsbAZulNlU0G683Ak6v.iFU/Asdtl8HFTgzNruED/HFOwqhFlHm",
+   "devices": ["INFINIXX678B35764C832FF7142F"],
+   "expiry": "01-05-2030 12:00 PM"
+},
+"jerry0018": {
+   "password": "$2y$12$Xh73YAQdeXI.T23Gm/8OPugo6wDqA3cSOt/5ZCitQ9pU0IBoQEWya",
+   "devices": ["INFINIXX678B06A38CD96D7B71D8"],
+   "expiry": "01-05-2030 12:00 PM"
+},
+"arfan001": {
+   "password": "$2y$12$pCejoCh9O30TGLhnr059BelpnkN8t3SoCh9oTdWYMTFhaeQ0zsSqu",
+   "devices": ["INFINIXX68278BB18CEBE66A4BB9"],
+   "expiry": "01-05-2030 12:00 PM"
+},
 }
