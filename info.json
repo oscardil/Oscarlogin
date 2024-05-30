@@ -604,4 +604,44 @@
    "devices": ["INFINIXX670796B0185E5D5EDF1"],
    "expiry": "01-05-2030 12:00 PM"
 },
+"aldy0007": {
+   "password": "$2y$12$N5bM2U/yfJBMfwVLnfStYukEEj2IBkxDFT2MeQBKGl7EYX2AZyCUi",
+   "devices": ["M2102J20SG3AD163D309C03FCE"],
+   "expiry": "01-05-2030 12:00 PM"
+},
+"aldy0008": {
+   "password": "$2y$12$GNnhbVvxgv0e3gt8WFR0X.JrGhfHhRiCeVtorV/M5H6DWQq7fNTOK",
+   "devices": ["M2102J20SG1EC9E05E5364B707"],
+   "expiry": "01-05-2030 12:00 PM"
+},
+"aldy0009": {
+   "password": "$2y$12$HEEc3HNEynsW2ROwNtGjh.LitNgmPRvx5W7OJTuBgVLE2G9E7ynY2",
+   "devices": ["22071212AG432F46A08C6D7FB6"],
+   "expiry": "01-05-2030 12:00 PM"
+},
+"aldy00010": {
+   "password": "$2y$12$U6MVbTWO5CzqRdYnF3QlY.JjXN937LfUIjaBTCp2g8C6tGObdOfYK",
+   "devices": ["22071212AG2C1F0719AE59CCC3"],
+   "expiry": "01-05-2030 12:00 PM"
+},
+"aldy00011": {
+   "password": "$2y$12$fgn6vwrlJ8BiOefU/RiE9e3hUg0VaAjfqNX0F4rhqlVEyZpdrpfiq",
+   "devices": ["22071212AG78FE05A3E8784646"],
+   "expiry": "01-05-2030 12:00 PM"
+},
+"aldy00012": {
+   "password": "$2y$12$mzefvjKZPXamJxmIFhNPT.PvjcR9y4sdgqU4gfXAEOF/qP65tlHdu",
+   "devices": ["22071212AGD31AC9F65A00B260"],
+   "expiry": "01-05-2030 12:00 PM"
+},
+"aldy00013": {
+   "password": "$2y$12$I6CHmZl54Q.uO3Rw.taI7uyVSCU9obUi88p2L1/wIeFJ1V.p5xX8S",
+   "devices": ["21081111RGB7B92C5E9BDD62DF"],
+   "expiry": "01-05-2030 12:00 PM"
+},
+"aldy00014": {
+   "password": "$2y$12$cdFko1uLoh.Q6EodDegiQ.q0Cs0bJ0dlLQ7aN4cxJ2pdM4VMO0l7W",
+   "devices": ["21081111RGF549503579CD4084"],
+   "expiry": "01-05-2030 12:00 PM"
+},
 }
