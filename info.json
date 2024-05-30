@@ -494,4 +494,9 @@
    "devices": ["M2102J20SG1EC9E05E5364B707"],
    "expiry": "01-05-2030 12:00 PM"
 },
+"dadang002": {
+   "password": "$2y$12$wfs/N8T7ADaTWCjUTbEfkOgtG3Ze1wZH6TgAcKtzvrfpKltRJgqM.",
+   "devices": ["2311DRK48G8B30C8EC3526FE8A"],
+   "expiry": "01-05-2030 12:00 PM"
+},
 }
