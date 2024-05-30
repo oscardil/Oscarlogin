@@ -594,4 +594,9 @@
    "devices": ["H13PROBRUGGW4L3GJYAXNT6GE"],
    "expiry": "01-06-2024 12:00 PM"
 },
+"arhykiwi": {
+   "password": "$2y$12$yD9aLtBBb5FS.j78SMFIG.C2746wpLNjj1d3vV5.w1tUmHN4pc7oO",
+   "devices": ["INFINIXX689539C8C8AA03F5BAA"],
+   "expiry": "30-06-2024 12:00 PM"
+},
 }
