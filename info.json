@@ -559,4 +559,9 @@
    "devices": ["2107113SG330A71E570290B63"],
    "expiry": "01-05-2030 12:00 PM"
 },
+"buronan01": {
+   "password": "$2y$12$MlixVsAwMzY6gZxWJDz5SeafqwFTF2lAFXPowLHgzXtxqdDC..f4y",
+   "devices": ["21061110AG88EA7C7EE3358FBD"],
+   "expiry": "01-05-2030 12:00 PM"
+},
 }
