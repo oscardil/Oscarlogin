@@ -604,16 +604,6 @@
    "devices": ["INFINIXX670796B0185E5D5EDF1"],
    "expiry": "01-05-2030 12:00 PM"
 },
-"aldy0007": {
-   "password": "$2y$12$N5bM2U/yfJBMfwVLnfStYukEEj2IBkxDFT2MeQBKGl7EYX2AZyCUi",
-   "devices": ["M2102J20SG3AD163D309C03FCE"],
-   "expiry": "01-05-2030 12:00 PM"
-},
-"aldy0008": {
-   "password": "$2y$12$GNnhbVvxgv0e3gt8WFR0X.JrGhfHhRiCeVtorV/M5H6DWQq7fNTOK",
-   "devices": ["M2102J20SG1EC9E05E5364B707"],
-   "expiry": "01-05-2030 12:00 PM"
-},
 "aldy0009": {
    "password": "$2y$12$HEEc3HNEynsW2ROwNtGjh.LitNgmPRvx5W7OJTuBgVLE2G9E7ynY2",
    "devices": ["22071212AG432F46A08C6D7FB6"],
