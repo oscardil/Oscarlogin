@@ -599,4 +599,9 @@
    "devices": ["INFINIXX689539C8C8AA03F5BAA"],
    "expiry": "30-06-2024 12:00 PM"
 },
+"elsatoar": {
+   "password": "$2y$12$shUyzpjOG.N7sAXYPaSRbeuEnHJaIgtHGe4LvyQZN94IHdhrckLfa",
+   "devices": ["INFINIXX670796B0185E5D5EDF1"],
+   "expiry": "01-05-2030 12:00 PM"
+},
 }
