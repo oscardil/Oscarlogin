@@ -664,4 +664,9 @@
    "devices": ["INFINIXX670782C892A45FA91D9"],
    "expiry": "01-07-2024 12:00 PM"
 },
+"kokodelon1": {
+   "password": "$2y$12$ETge5qkxvkgNKxXSZJog1unRtvWjDS4TRJBYxQPKvYSM9TZSu1R/y",
+   "devices": ["23043RP34G822831B24033A44D"],
+   "expiry": "03-06-2024 12:00 PM"
+},
 }
