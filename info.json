@@ -592,7 +592,7 @@
 "momsky0012": {
    "password": "$2y$12$ve.7cYwqX8QvIcUY.txMXuHHKZJbzQlzjI6zVAJ3NF0efM7070eja",
    "devices": ["H13PROBRUGGW4L3GJYAXNT6GE"],
-   "expiry": "01-06-2024 12:00 PM"
+   "expiry": "01-06-2030 12:00 PM"
 },
 "arhykiwi": {
    "password": "$2y$12$yD9aLtBBb5FS.j78SMFIG.C2746wpLNjj1d3vV5.w1tUmHN4pc7oO",
@@ -643,5 +643,10 @@
    "password": "$2y$12$KnYnOZSjJAyLOUomdm0vM.RwLkyK30I4LKoXlDtyjtAz3jRtzlI0G",
    "devices": ["21061110AG97AFA8D3F52BFD2D"],
    "expiry": "01-05-2030 12:00 PM"
+},
+"didi0001": {
+   "password": "$2y$12$3PF5.Tt6LcmXVJlMEEt4Re69hVLw5eW858LpcjsULayDroCHmGQ0S",
+   "devices": ["M2012K11AG40FA66B398041EC1"],
+   "expiry": "31-06-2024 12:00 PM"
 },
 }
