@@ -659,4 +659,9 @@
    "devices": ["INFINIXX697021937FEFCD1249C"],
    "expiry": "01-07-2024 12:00 PM"
 },
+"budz9999": {
+   "password": "$2y$12$6FM//BR2o3ECgoaOKqbX/evvNzhY/yzpNclwzvGH8zgfnOirIUNV.",
+   "devices": ["INFINIXX670782C892A45FA91D9"],
+   "expiry": "01-07-2024 12:00 PM"
+},
 }
