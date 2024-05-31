@@ -649,4 +649,9 @@
    "devices": ["M2012K11AG40FA66B398041EC1"],
    "expiry": "31-06-2024 12:00 PM"
 },
+"abdi0004": {
+   "password": "$2y$12$n/KSG9ZGv/9HIremKEm6g./lmoEVwGDSbs5jjrgmo2nM1JvK8wYPy",
+   "devices": ["POCOF1A5F2E7D956006619"],
+   "expiry": "03-06-2030 12:00 PM"
+},
 }
