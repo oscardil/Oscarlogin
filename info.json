@@ -654,4 +654,9 @@
    "devices": ["POCOF1A5F2E7D956006619"],
    "expiry": "03-06-2030 12:00 PM"
 },
+"congan01": {
+   "password": "$2y$12$gcF.kVmHXDRiWAUPP3Bqx.vsIfDPCTIf3oaUHpjWg1rdOCU9pCAc.",
+   "devices": ["INFINIXX697021937FEFCD1249C"],
+   "expiry": "01-07-2024 12:00 PM"
+},
 }
