@@ -669,4 +669,9 @@
    "devices": ["23043RP34G822831B24033A44D"],
    "expiry": "03-06-2024 12:00 PM"
 },
+"buronan02": {
+   "password": "$2y$12$aT9G6AOB4PsNHlZJ.nmczOlkQTh90ByTbsLVqHvoMyCdjvLyAWY2K",
+   "devices": ["21061110AG07479B187E9384D3"],
+   "expiry": "01-06-2030 12:00 PM"
+},
 }
