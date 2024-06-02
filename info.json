@@ -699,4 +699,34 @@
    "devices": ["21061110AG43B863545B5D7316"],
    "expiry": "02-07-2024 12:00 PM"
 },
+"evan0001": {
+   "password": "$2y$12$o55DCknYidKccf/WF35T7uUwoovRdXf2WbipcvVoltTC8rKmgleEK",
+   "devices": ["21061110AG2769D588707467EF"],
+   "expiry": "23-06-2024 12:00 PM"
+},
+"evan0002": {
+   "password": "$2y$12$lIWLpjjz8fZvjkjXIjAx7uVjOVpq8XR41pyo8lXFnykH.Hw.EZyPK",
+   "devices": ["21061110AGC15CF007DDB4F13E"],
+   "expiry": "23-06-2024 12:00 PM"
+},
+"evan0003": {
+   "password": "$2y$12$cOYgvdc6ooliHo8WTsY3I.j3nosEj4Z.ruHVzfdmaQKwT7Vaa9Oz6",
+   "devices": ["22071212AG0C907B16F4FC7453"],
+   "expiry": "23-06-2024 12:00 PM"
+},
+"evan0004": {
+   "password": "$2y$12$FbdLV6y2NE97vx5a5bqWPeMGDuCijIe.3pMQbo2VSTcjc708jljT2",
+   "devices": ["22071212AG04358F2C839069F8"],
+   "expiry": "23-06-2024 12:00 PM"
+},
+"evan0005": {
+   "password": "$2y$12$BnkhQ4HC0ci8ucua8SDYQu0TPQiyh.Y4lRsD/VUpCff5jKM4T.9Qu",
+   "devices": ["21061110AG13F80B0DDFD74E12"],
+   "expiry": "23-06-2024 12:00 PM"
+},
+"evan0006": {
+   "password": "$2y$12$uoHJdRTwC7c/HzjGewpDFuGcrplyJOj.bbxxjYn.CTLFQrhn3iy/.",
+   "devices": ["21061110AG4C47F07CBF2A5976"],
+   "expiry": "23-06-2024 12:00 PM"
+},
 }
