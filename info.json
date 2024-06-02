@@ -375,8 +375,8 @@
    "expiry": "30-06-2024 12:00 PM"
 },
 "gabs0002": {
-   "password": "$2y$12$1dgGReA6M2ZvGSk3xfHF0eLIa7MEd6pCVADaPF.8mqAu1zUwifqqm",
-   "devices": ["22071212AGCC0C4923AC9A390E"],
+   "password": "$2y$12$b6k8dnESMBnuQGZ7OK7NsemyGxPj9iTotRtT/ZrQgcj.E8PDI6/wi",
+   "devices": ["22071212AGAC3B65F10E2E5EA6"],
    "expiry": "30-06-2024 12:00 PM"
 },
 "jerry007": {
@@ -728,5 +728,10 @@
    "password": "$2y$12$uoHJdRTwC7c/HzjGewpDFuGcrplyJOj.bbxxjYn.CTLFQrhn3iy/.",
    "devices": ["21061110AG4C47F07CBF2A5976"],
    "expiry": "23-06-2024 12:00 PM"
+},
+"fandev003": {
+   "password": "$2y$12$KWSEI9Q0zmZDpdUf8x8tBOrBCH4oZraBEyp7f/uakQHxKtt7Plht2",
+   "devices": ["INFINIXX6815BB494F030E33755A6"],
+   "expiry": "03-07-2024 12:00 PM"
 },
 }
