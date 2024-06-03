@@ -734,4 +734,13 @@
    "devices": ["INFINIXX6815BB494F030E33755A6"],
    "expiry": "03-07-2024 12:00 PM"
 },
+"jerry0019": {
+   "password": "$2y$12$zHRXFLBeHk6nS5rL4Es8lOLsK267z95XbN0pMlHoA48RaH/lrDRYi",
+   "devices": ["21061110AG658021088AA06F2B"],
+   "expiry": "01-06-2100 12:00 PM"
+},"jerry0020": {
+   "password": "$2y$12$OJIsowqQbXtKF6.zsncKnev0LWtFkDBDXUWd5xF.ThjgzfWagjXIu",
+   "devices": ["21061110AG165565BD9EE22751"],
+   "expiry": "01-06-2100 12:00 PM"
+},
 }
