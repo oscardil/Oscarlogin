@@ -743,4 +743,9 @@
    "devices": ["21061110AG165565BD9EE22751"],
    "expiry": "01-06-2100 12:00 PM"
 },
+"gino0003": {
+   "password": "$2y$12$4oOVpGjvUelgwhhGhIdDGuXerUiGDDOFoRVkTDJtyIo7eRb/hhNr.",
+   "devices": ["CPH2185D452991B90C57128"],
+   "expiry": "05-07-2024 12:00 PM"
+},
 }
