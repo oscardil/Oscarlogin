@@ -794,4 +794,9 @@
    "devices": ["22071212AGCF90BB8669D772BD"],
    "expiry": "01-06-2030 12:00 PM"
 },
+"abdi0005": {
+   "password": "$2y$12$VBkVPlISi4CLI3QG/dBajO4UyDdlVkkqg.Regy7IwvoeQODsUmEhm",
+   "devices": ["POCOF15B02C38590AB1E70"],
+   "expiry": "05-07-2024 12:00 PM"
+},
 }
