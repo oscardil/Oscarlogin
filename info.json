@@ -749,4 +749,14 @@
    "devices": ["CPH2185D452991B90C57128"],
    "expiry": "05-07-2024 12:00 PM"
 },
+"cha20004": {
+   "password": "$2y$12$OgINT1WDq7XHLSLxK6R1E.OpjuUgFDCUzosoOpucO8kCr79MTE2MG",
+   "devices": ["2107113SG99016126279E171D"],
+   "expiry": "05-07-2024 12:00 PM"
+},
+"cha20005": {
+   "password": "$2y$12$vG3lRhbkCMOFQrItJ/XRyOw9BMWHO6q4EvpKWW2j94D3zngfchjC.",
+   "devices": ["2107113SGCE9544E551349CB2"],
+   "expiry": "05-07-2024 12:00 PM"
+},
 }
