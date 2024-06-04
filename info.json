@@ -799,4 +799,14 @@
    "devices": ["POCOF15B02C38590AB1E70"],
    "expiry": "05-07-2024 12:00 PM"
 },
+"rafly0001": {
+   "password": "$2y$12$nyB2ba3JumPFMvJcZKIp8eo9iL.APOqJAVqd0Hzo1qHx3bdW4UVsW",
+   "devices": ["21061110AGEFB84BBF3F485FB7"],
+   "expiry": "05-07-2024 12:00 PM"
+},
+"rafly0002": {
+   "password": "$2y$12$dY3BHo9ShjdYOg0GSVwvsu8FKCOKRHNTquc37dbHN9WXyonH6bxUS",
+   "devices": ["21061110AGFBF2B71959D76CBE"],
+   "expiry": "05-07-2024 12:00 PM"
+},
 }
