@@ -759,4 +759,14 @@
    "devices": ["2107113SGCE9544E551349CB2"],
    "expiry": "05-07-2024 12:00 PM"
 },
+"jemy0005": {
+   "password": "$2y$12$afx0P4s1j011f4EqUT5gO.5ZMunmoWhVnA6s1obDzEma3ypOkEesu",
+   "devices": ["INFINIXX6833B9E139C3A8B39B016"],
+   "expiry": "05-07-2024 12:00 PM"
+},
+"oparoman02": {
+   "password": "$2y$12$tZs5rWQ8z/A6BrgsZkNLj.6TDhEAxkHqt.EJyEoQYWR3eHei2dzwK",
+   "devices": ["22101316G90D58067A3AF2B76","INFINIXX6833B9E139C3A8B39B016"],
+   "expiry": "05-07-2024 12:00 PM"
+},
 }
