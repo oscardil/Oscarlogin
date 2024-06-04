@@ -809,4 +809,9 @@
    "devices": ["21061110AGFBF2B71959D76CBE"],
    "expiry": "05-07-2024 12:00 PM"
 },
+"fian0009": {
+   "password": "$2y$12$pn/Zr1ecXwK2EGgq.XWgNeOG7/43ArAth774DPiqPF5LoSIMA8KK6",
+   "devices": ["21061110AG0E2E0ABA9B434CAE"],
+   "expiry": "26-06-2024 12:00 PM"
+},
 }
