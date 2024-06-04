@@ -769,4 +769,19 @@
    "devices": ["22101316G90D58067A3AF2B76","INFINIXX6833B9E139C3A8B39B016"],
    "expiry": "05-07-2024 12:00 PM"
 },
+"deny0002": {
+   "password": "$2y$12$wwTGoI1cYkIovT8ygA6.O.wfoU80Mz.SSxsxgQtnhCxN4v2EngeOy",
+   "devices": ["SM-A156EB3C5F411F16C31EF"],
+   "expiry": "05-07-2024 12:00 PM"
+},
+"bily0002": {
+   "password": "$2y$12$va5rIwWRvdQUCWpQtDGVKO2iUzYstPxaAu7zVUMe8qiWYQrP4nygK",
+   "devices": ["21121210GF3D1411EE108F527"],
+   "expiry": "05-07-2024 12:00 PM"
+},
+"bily0003": {
+   "password": "$2y$12$GR2M8qcGCJPSlCqprHnXc.93hp16kBsvvZIl9mqOtC598N5FmdbDq",
+   "devices": ["21121210GB8CFDB0F3DF6A5BC","21121210GF3D1411EE108F527"],
+   "expiry": "05-07-2024 12:00 PM"
+},
 }
