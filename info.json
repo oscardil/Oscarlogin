@@ -834,4 +834,9 @@
    "devices": ["M2003J15SCF5F8D95910F584A3"],
    "expiry": "05-07-2024 12:00 PM"
 },
+"maikelcia": {
+   "password": "$2y$12$241Nj0v5AIceaEDlmjsOK.a6f99eNh564uuiLttle9AQDGdUPGYGO",
+   "devices": ["M2101K7BNY4F0B9C290CB4BB1E"],
+   "expiry": "05-07-2024 12:00 PM"
+},
 }
