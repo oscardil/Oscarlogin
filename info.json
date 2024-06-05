@@ -814,4 +814,24 @@
    "devices": ["21061110AG0E2E0ABA9B434CAE"],
    "expiry": "26-06-2024 12:00 PM"
 },
+"giggs001": {
+   "password": "$2y$12$290D/y1eyYhWpvM97Pw4Ze2KXgKIPohKm.rzdcMIBvK6ROntY74m2",
+   "devices": ["22071212AG9964F5F5F97DBC67"],
+   "expiry": "05-07-2024 12:00 PM"
+},
+"giggs002": {
+   "password": "$2y$12$NQc1WsAvN9k8iIR/3f2F1O5OyGEvnG9fe9xXrFLt0riCCJLvfRFK6",
+   "devices": ["RMX3561D50E3519C512860E"],
+   "expiry": "05-07-2024 12:00 PM"
+},
+"giggs003": {
+   "password": "$2y$12$d3HBA4Wfzl9z1GLb.9c/feBc0sJ76phGHVvAHGsc7zWBLGLbzyNiG",
+   "devices": ["21061110AGBCFE5669AB8D60B3"],
+   "expiry": "05-07-2024 12:00 PM"
+},
+"giggs004": {
+   "password": "$2y$12$WiwWyo4/yC657YGoY75aBulmlNouhgzb/ugXzfCYFLeFMwyITX3P2",
+   "devices": ["M2003J15SCF5F8D95910F584A3"],
+   "expiry": "05-07-2024 12:00 PM"
+},
 }
