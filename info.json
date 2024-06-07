@@ -849,4 +849,9 @@
    "devices": ["23021RAA2Y02572039D1243BE7"],
    "expiry": "07-07-2024 12:00 PM"
 },
+"robby001": {
+   "password": "$2y$12$/DmdcX77BXlEdzvLh/PKLOM9/.OlvDHrE.8NPh8KMFmA4F3RZ0j6.",
+   "devices": ["POCOPHONEF122E328D37393A3E3"],
+   "expiry": "07-07-2024 12:00 PM"
+},
 }
