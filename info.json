@@ -859,4 +859,9 @@
    "devices": ["INFINIXX6833BB3FE68B39804E7C1"],
    "expiry": "01-06-2100 12:00 PM"
 },
+"veky0004": {
+   "password": "$2y$12$lPT/pI49aZDeAIWOj0SOHOmg1tV3lBLthEp.mwewo449ST4MPk.T2",
+   "devices": ["2312DRA50G8B5DC0ECF01100D4"],
+   "expiry": "08-07-2024 12:00 PM"
+},
 }
