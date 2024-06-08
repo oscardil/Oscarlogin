@@ -864,4 +864,9 @@
    "devices": ["2312DRA50G8B5DC0ECF01100D4"],
    "expiry": "08-07-2024 12:00 PM"
 },
+"john0006": {
+   "password": "$2y$12$0d6sjIY72idDk9w/RazCy.RamYLw/uOv2x6lYybjkeAj2c5Kshbuq",
+   "devices": ["M2012K11AG7A70F28C17DFA69F"],
+   "expiry": "09-07-2024 12:00 PM"
+},
 }
