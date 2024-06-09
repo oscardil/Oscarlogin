@@ -879,4 +879,9 @@
    "devices": ["CPH25777AADDB3ED56E5B80"],
    "expiry": "08-07-2024 12:00 PM"
 },
+"rafly0003": {
+   "password": "$2y$12$iEvqJP7HS4E3bzxgY6cxH.W3//875oKbtV90Lb9ReNLhtE81CHUm2",
+   "devices": ["22021211RG79B5BAFF2553DB17"],
+   "expiry": "10-07-2024 12:00 PM"
+},
 }
