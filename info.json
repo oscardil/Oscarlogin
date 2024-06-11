@@ -804,11 +804,6 @@
    "devices": ["21061110AGEFB84BBF3F485FB7"],
    "expiry": "05-07-2024 12:00 PM"
 },
-"rafly0002": {
-   "password": "$2y$12$dY3BHo9ShjdYOg0GSVwvsu8FKCOKRHNTquc37dbHN9WXyonH6bxUS",
-   "devices": ["21061110AGFBF2B71959D76CBE"],
-   "expiry": "05-07-2024 12:00 PM"
-},
 "fian0009": {
    "password": "$2y$12$pn/Zr1ecXwK2EGgq.XWgNeOG7/43ArAth774DPiqPF5LoSIMA8KK6",
    "devices": ["21061110AG0E2E0ABA9B434CAE"],
@@ -898,5 +893,10 @@
    "password": "$2y$12$3j.YHIbSCOBsDMQnP1oAieSFgAYRqjMmO5HyvxfKIL0jlMEdI58ry",
    "devices": ["INFINIXX6833BF4BF5FD4D069A173"],
    "expiry": "01-06-2030 12:00 PM"
+},
+"rafly0002": {
+   "password": "$2y$12$Dijsen/fuoSvxqFwdTEkCOnB/bgvCNvCiH3KRL.XsbuNPXlvJhd8G",
+   "devices": ["21061110AGF75378B5B7774E1B"],
+   "expiry": "05-07-2024 12:00 PM"
 },
 }
