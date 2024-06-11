@@ -889,4 +889,9 @@
    "devices": ["INFINIXX69797FEE35FD3D161F4"],
    "expiry": "11-07-2024 12:00 PM"
 },
+"prodakcina6": {
+   "password": "$2y$12$mj1VqF4U2d0TGshLyaa30eUwo91g6XLfnbfMA/meu.q/3.xdc9rrG",
+   "devices": ["21081111RG5A7DFA18ED0244E0"],
+   "expiry": "01-06-2030 12:00 PM"
+},
 }
