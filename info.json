@@ -934,4 +934,9 @@
    "devices": ["22071212AG731CD2A8B8737403"],
    "expiry": "13-07-2024 12:00 PM"
 },
+"aldo0001": {
+   "password": "$2y$12$vsKgDQKP2Vf9lIcm7FKEx.A4HdL45xPFpFiQMhQn7UflqceaFudtu",
+   "devices": ["INFINIXX695CBC3B4474CDD3E178"],
+   "expiry": "13-07-2024 12:00 PM"
+},
 }
