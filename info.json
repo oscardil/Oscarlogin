@@ -914,4 +914,9 @@
    "devices": ["21081111RGE51E64B019A474D2"],
    "expiry": "13-07-2024 12:00 PM"
 },
+"wakaeby002": {
+   "password": "$2y$12$6Wvogee5gfVbSOb6Z4/Nl.fnCp6pWgUIvStUIMaMRB5Ua0DsBkhoG",
+   "devices": ["22021211RG9CEC5F6582721D57","INFINIXX669C2528AA7C8F4FCFDE"],
+   "expiry": "13-07-2024 12:00 PM"
+},
 }
