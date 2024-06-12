@@ -899,4 +899,9 @@
    "devices": ["21061110AGF75378B5B7774E1B"],
    "expiry": "05-07-2024 12:00 PM"
 },
+"dolin001": {
+   "password": "$2y$12$cb1BLkJhaLRoofkEfzzs6udE4IVrcTLBZV9Zs8VNygPbSA6J/MzY2",
+   "devices": ["M2103K19PGE7E0308BF74B5BDF"],
+   "expiry": "13-07-2024 12:00 PM"
+},
 }
