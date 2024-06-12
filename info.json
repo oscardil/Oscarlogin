@@ -924,4 +924,14 @@
    "devices": ["22021211RG9CEC5F6582721D57"],
    "expiry": "13-07-2024 12:00 PM"
 },
+"ipul0001": {
+   "password": "$2y$12$wMMZwOBGTo7LeinCannh2e6j7fHLNs0AOc68yFSfx4AJTREXBJ8/y",
+   "devices": ["22071212AGC169FF1D22210C40"],
+   "expiry": "13-07-2024 12:00 PM"
+},
+"ipul0002": {
+   "password": "$2y$12$XMpsgC5uh0TdzoQwjcUXS.99urG65EBOR4xf7mXLh8puN/zRFU3k6",
+   "devices": ["22071212AG3EF31D5315101584"],
+   "expiry": "13-07-2024 12:00 PM"
+},
 }
