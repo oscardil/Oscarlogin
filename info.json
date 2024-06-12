@@ -909,4 +909,9 @@
    "devices": ["21081111RG1F2E62010AB60625"],
    "expiry": "13-07-2024 12:00 PM"
 },
+"rafly0005": {
+   "password": "$2y$12$9t7ZbftXPcimrTmU4/3UY.JUMM/AYaFmMt.K5kdtznAWsUYfgDzri",
+   "devices": ["21081111RGE51E64B019A474D2"],
+   "expiry": "13-07-2024 12:00 PM"
+},
 }
