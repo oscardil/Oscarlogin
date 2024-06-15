@@ -290,9 +290,9 @@
    "expiry": "29-06-2024 12:00 PM"
 },
 "fandev002": {
-   "password": "$2y$12$KL2JZdj3zDoqs2BG3E4/tuRJ1GAR9gjbTGqWghxIZZKy8VGidxCVy",
-   "devices": ["22071212AG12581BE2C5B28130"],
-   "expiry": "29-06-2024 12:00 PM"
+   "password": "$2y$12$xzr1pLN4K6.PiqhZc0cYTuBV13WWeDWU5r3U0MIhK8TRWvWx/huR.",
+   "devices": ["22071212AGC42450C2B002960C"],
+   "expiry": "01-06-2030 12:00 PM"
 },
 "mahdunk01": {
    "password": "$2y$12$BpF7a.vWjHwX2Y1hhOR3fuZlD4sjuKDM80A/oUw1VyljNUbrJIeXm",
