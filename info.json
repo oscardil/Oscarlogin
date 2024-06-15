@@ -939,4 +939,9 @@
    "devices": ["INFINIXX695CBC3B4474CDD3E178"],
    "expiry": "13-07-2024 12:00 PM"
 },
+"gabriel01": {
+   "password": "$2y$12$RNm5hc2pvttqXQpZ/IL.4u2zVOnTUjOQM8crKyZ9V24VdGhhvC6tW",
+   "devices": ["M2101K7BNY2145315FBF2B54E7"],
+   "expiry": "03-08-2024 12:00 PM"
+},
 }
