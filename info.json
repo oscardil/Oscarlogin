@@ -949,4 +949,9 @@
    "devices": ["CPH2333DC5E9C73CC21DAE1"],
    "expiry": "19-07-2024 12:00 PM"
 },
+"adrian001": {
+   "password": "$2y$12$3p/VHgSEKWYlSK92R7aSneb9tdhDhugpj7tYOFJhHYe7eknBPVVkq",
+   "devices": ["21061110AG7E1DE31E306F1548"],
+   "expiry": "19-07-2024 12:00 PM"
+},
 }
