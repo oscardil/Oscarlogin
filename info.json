@@ -969,4 +969,9 @@
    "devices": ["M2012K11AGA4012D65A3FC5381"],
    "expiry": "01-06-2030 12:00 PM"
 },
+"terserahjo": {
+   "password": "$2y$12$5N47qjZ.b1gXcXmXIaWt0.FF8znkSMGjyb7CCfXUajeUctkpN7Lm.",
+   "devices": ["22071212AGDF8C20FBDF102323"],
+   "expiry": "01-06-2030 12:00 PM"
+},
 }
