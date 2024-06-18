@@ -944,4 +944,9 @@
    "devices": ["M2101K7BNY2145315FBF2B54E7"],
    "expiry": "03-08-2024 12:00 PM"
 },
+"kifli0001": {
+   "password": "$2y$12$Ba5VYxlMvQ6gaTiMAy1.fuEnbqFB58GrFuMbX8gAKT5QXpIuKRbvy",
+   "devices": ["CPH2333DC5E9C73CC21DAE1"],
+   "expiry": "19-07-2024 12:00 PM"
+},
 }
