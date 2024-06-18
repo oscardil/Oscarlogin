@@ -954,4 +954,9 @@
    "devices": ["21061110AG7E1DE31E306F1548"],
    "expiry": "19-07-2024 12:00 PM"
 },
+"bensu001": {
+   "password": "$2y$12$TK7E.vZBc4M09qRr0Ldup.yfGemebRHw0Kdyvz0x7Ji8SE4y0Tpeu",
+   "devices": ["INFINIXX6815B0D0D1EC4A54EDF93"],
+   "expiry": "19-07-2024 12:00 PM"
+},
 }
