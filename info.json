@@ -974,4 +974,9 @@
    "devices": ["22071212AGDF8C20FBDF102323"],
    "expiry": "01-06-2030 12:00 PM"
 },
+"veky0006": {
+   "password": "$2y$12$hUJsORmCMyu2R.Mq.BtshO/lqFf6rI906WlbA090CL/dXMayDbut2",
+   "devices": ["SM-A605G4CEA5AA3D5504513"],
+   "expiry": "20-07-2024 12:00 PM"
+},
 }
