@@ -989,4 +989,9 @@
    "devices": ["INFINIXX68510B0275D178F6ED81"],
    "expiry": "22-07-2024 12:00 PM"
 },
+"ian12345": {
+   "password": "$2y$12$qKz5fSoktUV29.3i0.t.Pes8E07Nc5xsrt8IOv.4Y6JvBTK3YY0NO",
+   "devices": ["21061110AG475F7D475BE7C27B"],
+   "expiry": "21-07-2024 12:00 PM"
+},
 }
