@@ -979,4 +979,14 @@
    "devices": ["SM-A605G4CEA5AA3D5504513"],
    "expiry": "20-07-2024 12:00 PM"
 },
+"reynaldo1": {
+   "password": "$2y$12$MxPk5a30G0G/BPPa7JR0Q.l6VeQRjnfJOXF29qgu4NIAvOlGAmW7i",
+   "devices": ["CPH21599A14FF2D3C6742CF"],
+   "expiry": "21-07-2024 12:00 PM"
+},
+"Kikiy0001": {
+   "password": "$2y$12$eXCIXz5O5NCaVNdWZyMx/OfgrsxLMm600pT17DaZzAS9WZqXPJ1Q2",
+   "devices": ["INFINIXX68510B0275D178F6ED81"],
+   "expiry": "22-07-2024 12:00 PM"
+},
 }
