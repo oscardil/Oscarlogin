@@ -1014,4 +1014,9 @@
    "devices": ["21081111RG691F7C26D55E0EE8"],
    "expiry": "22-07-2024 12:00 PM"
 },
+"stevi002": {
+   "password": "$2y$12$semmg5Eaj1xMBeHCIsaJt.4HVe0umHm045zWAPIsnsnF3Y46rTQH.",
+   "devices": ["21081111RG9C5E2F212507D55A"],
+   "expiry": "22-07-2024 12:00 PM"
+},
 }
