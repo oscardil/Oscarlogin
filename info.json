@@ -1029,4 +1029,9 @@
    "devices": ["22071219CG0EE6144B8348D5B7"],
    "expiry": "01-06-2030 12:00 PM"
 },
+"deny0003": {
+   "password": "$2y$12$65BGBzmLj7BS/N52VyirJehakbpC.UdTiaCmiNXqy7vI5PpmxOD.a",
+   "devices": ["23043RP34G822831B24033A44D"],
+   "expiry": "24-07-2024 12:00 PM"
+},
 }
