@@ -1004,4 +1004,14 @@
    "devices": ["INFINIXX6815B3BE39721C8314430"],
    "expiry": "22-07-2024 12:00 PM"
 },
+"tols0001": {
+   "password": "$2y$12$3UN6XAeRN7YhkuXrZ03VVuj2pfiqIOlREZdedlYAZat/cb7YJGCli",
+   "devices": ["22101316G88CE47978BE4AB0D"],
+   "expiry": "25-07-2024 12:00 PM"
+},
+"stevi001": {
+   "password": "$2y$12$G5uFsD7yUu4A4nnbwKxk1O0AUry.4vLsYaLb//klnfJnqNokUamnC",
+   "devices": ["21081111RG691F7C26D55E0EE8"],
+   "expiry": "22-07-2024 12:00 PM"
+},
 }
