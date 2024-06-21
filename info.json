@@ -999,4 +999,9 @@
    "devices": ["INFINIXX69738340587A4486E6F"],
    "expiry": "20-07-2024 12:00 PM"
 },
+"bensu0002": {
+   "password": "$2y$12$5PEDmC5NqBe6rrLRCNbeueQD.0fVkz08Lb/Of8NOL3LI9qszYLjLa",
+   "devices": ["INFINIXX6815B3BE39721C8314430"],
+   "expiry": "22-07-2024 12:00 PM"
+},
 }
