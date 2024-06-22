@@ -1173,4 +1173,9 @@
    "devices": ["21061110AG8E9D4B0AC7FBB432"],
    "expiry": "31-07-2024 12:00 PM"
 },
+"brokay01": {
+   "password": "$2y$12$.D5y3KyT5rvwCKcGrpYN..M3kMCTklvG9Wc1NT2KOBiayIbaG7XSu",
+   "devices": ["M2004J19C45A456718262AD39"],
+   "expiry": "23-07-2024 12:00 PM"
+},
 }
