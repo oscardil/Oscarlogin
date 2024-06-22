@@ -1178,4 +1178,9 @@
    "devices": ["M2004J19C45A456718262AD39"],
    "expiry": "23-07-2024 12:00 PM"
 },
+"evan00027": {
+   "password": "$2y$12$NHb.MXLWmurismQewVLGM.YjGTGCMLHz/yIr09zyRSgIt1TUj3Vqe",
+   "devices": ["21061110AG814D677573902106"],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
