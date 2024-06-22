@@ -1128,4 +1128,14 @@
    "devices": ["2107113SG20A3AC56D3E9F756"],
    "expiry": "31-07-2024 12:00 PM"
 },
+"leon0001": {
+   "password": "$2y$12$inKFtzxPTjlQ18qniRlY0uUnlSaR0P8eQ3gJN2yeL33pk3QlThWBq",
+   "devices": ["21081111RG58DCC60C922F997A"],
+   "expiry": "23-07-2024 12:00 PM"
+},
+"leon0002": {
+   "password": "$2y$12$eLByov6dG7tX5zAacI4FF.RhGsvEiSPG82WdgmeYGfv7K0GMQRHxe",
+   "devices": ["21081111RGE3F2CE227A2DF0B8"],
+   "expiry": "23-07-2024 12:00 PM"
+},
 }
