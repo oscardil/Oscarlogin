@@ -1208,4 +1208,9 @@
    "devices": ["SM-J701FDC161D7AE8457257"],
    "expiry": "01-06-2030 12:00 PM"
 },
+"apri0001": {
+   "password": "$2y$12$QZphaDsTJldIbJo7ykci.uLU/dCB2vXhe9F5YoQSYM6YLSZaFdxfy",
+   "devices": ["M2012K11AGBF4F8A9397A141F6"],
+   "expiry": "10-07-2024 12:00 PM"
+},
 }
