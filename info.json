@@ -1203,4 +1203,9 @@
    "devices": ["CPH2159CD8B3AA20E905010"],
    "expiry": "24-07-2024 12:00 PM"
 },
+"abdi0005": {
+   "password": "$2y$12$M58CXq6YYtUts7kbucJelOR/m7uD9KbnxjX7uA/b2eidrKVs40W2y",
+   "devices": ["SM-J701FDC161D7AE8457257"],
+   "expiry": "02-08-2024 12:00 PM"
+},
 }
