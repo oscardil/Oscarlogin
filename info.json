@@ -1198,4 +1198,9 @@
    "devices": ["21061110AGB96CAA2CD51E2808"],
    "expiry": "24-07-2024 12:00 PM"
 },
+"reynaldo2": {
+   "password": "$2y$12$jETcSpL4ukxyI02S5YKVTOAU7l0avQYJMmTCXFC0wLCunHwqdOgrW",
+   "devices": ["CPH2159CD8B3AA20E905010"],
+   "expiry": "24-07-2024 12:00 PM"
+},
 }
