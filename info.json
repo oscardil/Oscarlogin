@@ -1188,4 +1188,14 @@
    "devices": ["RMX3231054B50EA178EE7A7"],
    "expiry": "31-07-2024 12:00 PM"
 },
+"stevi0003": {
+   "password": "$2y$12$gGf3d8DgwnSf8TVvwCOzRuDD9BAsRPbOasRLd3iRy5AHqFMc4wZyu",
+   "devices": ["21061110AGC578C4430723CFBE"],
+   "expiry": "24-07-2024 12:00 PM"
+},
+"stevi0004": {
+   "password": "$2y$12$Dr/vPVjk07p4HJhxvSlGpeNVNcOZgkdeCwJ4oq.UpMKz2VD7XQvTO",
+   "devices": ["21061110AGB96CAA2CD51E2808"],
+   "expiry": "24-07-2024 12:00 PM"
+},
 }
