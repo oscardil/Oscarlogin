@@ -1183,4 +1183,9 @@
    "devices": ["21061110AG814D677573902106"],
    "expiry": "31-07-2024 12:00 PM"
 },
+"stenli01": {
+   "password": "$2y$12$R1aa4h/PZXYzsKat/n0Ix.llWhbn8Aw33IOErCiI00d.ujjerDifu",
+   "devices": ["RMX3231054B50EA178EE7A7"],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
