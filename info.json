@@ -1213,4 +1213,9 @@
    "devices": ["M2012K11AGBF4F8A9397A141F6"],
    "expiry": "10-07-2024 12:00 PM"
 },
+"nandz0001": {
+   "password": "$2y$12$GjjOQqhEM3kb1beRSKUfouNNp80hKwWzwlecdjrzegBF4cepsUKG.",
+   "devices": ["M2012K11AG47D7860CDEB9CDE8"],
+   "expiry": "28-07-2024 12:00 PM"
+},
 }
