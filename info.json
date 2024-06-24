@@ -1223,4 +1223,14 @@
    "devices": ["M2012K11AG88DF79E0C593FC52"],
    "expiry": "28-07-2024 12:00 PM"
 },
+"kevin001": {
+   "password": "$2y$12$EyH0VlHD6xnWt0TfW/ALfOS8q.lRmR6DIlvjv7ssFvnezVvXLdsZC",
+   "devices": ["21121210G84CE348975E5E2F0"],
+   "expiry": "25-07-2024 12:00 PM"
+},
+"kevin002": {
+   "password": "$2y$12$0eU.5doSVteQberT9W93KO8/Zq8ksMxbGIk43CImNcf2KQFMw0To.",
+   "devices": ["21121210GAF989104DB1690AD"],
+   "expiry": "25-07-2024 12:00 PM"
+},
 }
