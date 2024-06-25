@@ -401,12 +401,12 @@
 },
 "melky002": {
    "password": "$2y$12$I3qKGdLTT.J4eIgG8ytoSuHAGRyIteyU.ONgmdAS49rnyyek7NJZy",
-   "devices": ["21061110AG7236F35D5D617261"],
+   "devices": ["21061110AG5919B215622661E5"],
    "expiry": "30-06-2024 12:00 PM"
 },
 "melky003": {
    "password": "$2y$12$NCrIK30GtuWalUs2p4Ui5u/OEg1LuTySbG1mQOju6MV/2t/x/yZ.O",
-   "devices": ["21081111RGA759DB096CCC6F59"],
+   "devices": ["21081111RG296A858F4F1F516F"],
    "expiry": "30-06-2024 12:00 PM"
 },
 "melky004": {
@@ -421,7 +421,7 @@
 },
 "melky006": {
    "password": "$2y$12$nOcz9k53Ub9OYDxvKUgQp.9g63xqGVH9yAc3Jtx29J57MXS3Zwpoe",
-   "devices": ["REDMINOTE8PROBA1B3FE2E852FB3F"],
+   "devices": ["REDMINOTE8PRO2B0FD288F746985E"],
    "expiry": "30-06-2024 12:00 PM"
 },
 "momsky007": {
