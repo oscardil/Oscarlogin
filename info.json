@@ -1248,4 +1248,9 @@
    "devices": ["21061110AGD9326FD81406BE10"],
    "expiry": "26-07-2024 12:00 PM"
 },
+"nandz0004": {
+   "password": "$2y$12$DSP9ekJu5Ii9NXGkZywy9uAiZoG1fhArsvFCzq7xc0NElLz/JcJlq",
+   "devices": ["21061119AG14E29D69DC3EF098"],
+   "expiry": "26-07-2024 12:00 PM"
+},
 }
