@@ -167,7 +167,7 @@
 "opakoplo": {
    "password": "$2y$12$zPRUIPNs3aFleqld8PEBUOH0OZ5ghInyQC83mcldfqRlqvj0r6nk6",
    "devices": ["21061110AGB4EB1D8C10905FE1"],
-   "expiry": "26-05-2020 12:00 PM"
+   "expiry": "26-05-2030 12:00 PM"
 },
 "hengki001": {
    "password": "$2y$12$kJqs5od/M6nIh6iZ.tpXc.szFNYqvN8vhIs90Xem.19GoAshk/ch6",
@@ -177,7 +177,7 @@
 "opakoplo1": {
    "password": "$2y$12$8cLdsu37MWcWvCYgerALH.NqdR4iH1sA0eeQMYRL4hTzEr7rctZzW",
    "devices": ["21061110AG95BEE2C3FC03489C"],
-   "expiry": "01-05-2020 12:00 PM"
+   "expiry": "01-05-2030 12:00 PM"
 },
 "yupi1234": {
    "password": "$2y$12$0Q7XlSxoILPaTWi6jVEvBuq.cMSal9npvJwAcJfZWdHhijB1cRq/W",
