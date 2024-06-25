@@ -1258,4 +1258,9 @@
    "devices": ["CPH2269A364C17C3154ACEF"],
    "expiry": "30-07-2024 12:00 PM"
 },
+"roma12345": {
+   "password": "$2y$12$Bgi7t.QbftLUoF7M85LNQ.wmirSj/ZV7EWgZVi3n5xEF5Am/wZQZm",
+   "devices": ["M2012K11AG64C833078534267B"],
+   "expiry": "26-07-2024 12:00 PM"
+},
 }
