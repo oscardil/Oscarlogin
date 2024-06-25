@@ -1233,4 +1233,9 @@
    "devices": ["21121210GAF989104DB1690AD"],
    "expiry": "25-07-2024 12:00 PM"
 },
+"roma1234": {
+   "password": "$2y$12$irHBaT0idG/I0TB8lf7YvujQpu0hLF7lXI8P6Qltua2R3pcI7EKnK",
+   "devices": ["M2012K11AG10F6ECB511934F7B"],
+   "expiry": "26-07-2024 12:00 PM"
+},
 }
