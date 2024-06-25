@@ -1256,7 +1256,7 @@
 "aldy00015": {
    "password": "$2y$12$tS7nceQeSCxFHJuel9LzxuVxTjQ4Pmhb6QNHEbxgh0n09XrCGWt3K",
    "devices": ["CPH2269A364C17C3154ACEF"],
-   "expiry": "30-07-2024 12:00 PM"
+   "expiry": "30-07-2030 12:00 PM"
 },
 "roma12345": {
    "password": "$2y$12$Bgi7t.QbftLUoF7M85LNQ.wmirSj/ZV7EWgZVi3n5xEF5Am/wZQZm",
@@ -1267,5 +1267,20 @@
    "password": "$2y$12$PfU40SBPWK1ecrudsi29FOfGR0SDGkySKSag.PVckOGLSEOBkZHx.",
    "devices": ["21061110AGE01DEE0E45D3F97F"],
    "expiry": "26-07-2024 12:00 PM"
+},
+"veky0008": {
+   "password": "$2y$12$s35JHgxcLEnqpWiprJQ0JO/1ks5WfwUYm9p.PKDPgiecqvzLG2a.u",
+   "devices": ["21061110AGB54AAB767DC0118F"],
+   "expiry": "26-07-2024 12:00 PM"
+},
+"aldy00017": {
+   "password": "$2y$12$X7exxcSBq6VuDU0OwlWmDeBwCh5uZvTQLrULshGOmMvHcJRJR1Plq",
+   "devices": ["M2012K11AGCAB350394EDB4C20"],
+   "expiry": "26-07-2030 12:00 PM"
+},
+"aldy00018": {
+   "password": "$2y$12$.ZOWRH/BJpO02I1nYwtxGuUL1kQPnvgASV91.euldwak4S/1T0tTO",
+   "devices": ["M2012K11AG79B2B148ECD045A2"],
+   "expiry": "26-07-2030 12:00 PM"
 },
 }
