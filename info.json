@@ -1238,4 +1238,14 @@
    "devices": ["M2012K11AG10F6ECB511934F7B"],
    "expiry": "26-07-2024 12:00 PM"
 },
+"stevi0005": {
+   "password": "$2y$12$mCx.UIC2iREf.MaNy8pKp.jXVt9.kmJ4la9iC2vBm0wB3e1WAIv/G",
+   "devices": ["21061110AG781145DC2FF2468E"],
+   "expiry": "26-07-2024 12:00 PM"
+},
+"stevi0006": {
+   "password": "$2y$12$3drpr7yfEWttAaUruQuZHuf/tW8m/bY3F.KuAnMQNCBGBTEBaleZe",
+   "devices": ["21061110AGD9326FD81406BE10"],
+   "expiry": "26-07-2024 12:00 PM"
+},
 }
