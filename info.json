@@ -84,46 +84,6 @@
    "devices": ["POCOPHONEF1D2E2F6C4A0D6B4AD"],
    "expiry": "25-05-2034 11:00 PM"
 },
-"vian0001": {
-   "password": "$2y$12$LBnrNPIpyWslC5SIPtGxLuPCcnqDEHtL6q/SYU9zCQK6emw2AgBj2",
-   "devices": ["M2012K11AG481AB6BDF4A90713"],
-   "expiry": "26-06-2024 12:00 PM"
-},
-"vian0002": {
-   "password": "$2y$12$58TcfDoX4Bpo0vskBO3bSeo1cAjuMoHBq1MS6ojJTw0QnCjlXazpi",
-   "devices": ["M2007J20CG46F35B4B9468939B"],
-   "expiry": "26-06-2024 12:00 PM"
-},
-"vian0003": {
-   "password": "$2y$12$0KvvTM4i.BjvnCWzPwUcZeQ1DvGezR2Cyn1bEEEEOp2xFd9.sk5G2",
-   "devices": ["21061110AGC60861B74E97645D"],
-   "expiry": "26-06-2024 12:00 PM"
-},
-"vian0004": {
-   "password": "$2y$12$6puWUP6a5Tvb0djWb2wAOuzDO9NSo8aTXRsb3HOXgE2oRkUpZNC4a",
-   "devices": ["21081111RG7383C3E82680D930"],
-   "expiry": "26-06-2024 12:00 PM"
-},
-"vian0005": {
-   "password": "$2y$12$T4N/ZV1AIXRkqXrr.lUu8uUtoMMEgl2o6eY7Vr7VNmZMRA9hLW8R6",
-   "devices": ["21061110AG5DB4CA10A9A93F5F"],
-   "expiry": "26-06-2024 12:00 PM"
-},
-"vian0006": {
-   "password": "$2y$12$2i2PyYZQWbMm/CbdddoCvOhX0pDYRBoAAOzXmpiSmHANl3ucHfvEq",
-   "devices": ["21081111RGEC27326A6C7C6BE0"],
-   "expiry": "26-06-2024 12:00 PM"
-},
-"vian0007": {
-   "password": "$2y$12$hcRrphCGWTe7eLj8TlBrpOvDOyl9Uasww0Mka48cG4lGinEk3o0dm",
-   "devices": ["21081111RG54BCF66E1797F7FF"],
-   "expiry": "26-06-2024 12:00 PM"
-},
-"vian0008": {
-   "password": "$2y$12$NEWRI7gPFh/Eg14OWmy.Ne3WRwVDFIaX0rwLjpTgNkamqIDL8z3ji",
-   "devices": ["21081111RGB4E6178DC3F787CB"],
-   "expiry": "26-06-2024 12:00 PM"
-},
 "jerry003": {
    "password": "$2y$12$577mqVH8Pscslsj.PcKxFuSux36yS4c8AuRDEGrFPg612MXb82coK",
    "devices": ["21061110AGFA315C38AFFCD222"],
@@ -1282,5 +1242,55 @@
    "password": "$2y$12$.ZOWRH/BJpO02I1nYwtxGuUL1kQPnvgASV91.euldwak4S/1T0tTO",
    "devices": ["M2012K11AG81DB92A2544524BC"],
    "expiry": "26-07-2030 12:00 PM"
+},
+"fian0001": {
+   "password": "$2y$12$6v439.t8JsiJ.VwQBQecIOpcoD/VWEyRL.Re9KFtISLHt7g3eyuYa",
+   "devices": ["21081111RG7383C3E82680D930"],
+   "expiry": "27-07-2024 12:00 PM"
+},
+"fian0002": {
+   "password": "$2y$12$3V78cbCVfuUVgMOTYx.8Y.AluPbVgL6AZcD4izk.1Yekwnc75IkpS",
+   "devices": ["21081111RGEC27326A6C7C6BE0"],
+   "expiry": "27-07-2024 12:00 PM"
+},
+"fian0003": {
+   "password": "$2y$12$G6Gk31M2jfFx0yO26U43V.vXAVkdxHXm3v4WzTqFjhlQPD2Wiip0y",
+   "devices": ["21061110AGC60861B74E97645D"],
+   "expiry": "27-07-2024 12:00 PM"
+},
+"fian0004": {
+   "password": "$2y$12$gKi70i7wo9fZSj9IKaAgD.BC.BBLVksjzu3M6W2wLcBoDasHl2Ece",
+   "devices": ["21061110AG7BE43049C760F55D"],
+   "expiry": "27-07-2024 12:00 PM"
+},
+"fian0005": {
+   "password": "$2y$12$7slMiIygO1319cvuarBL7u7X4kdmPUMEHkqvAgvV5nKobQYBmNiiu",
+   "devices": ["21061110AGC7786EFE28875DFB"],
+   "expiry": "27-07-2024 12:00 PM"
+},
+"fian0006": {
+   "password": "$2y$12$S0RprjgsD/Mq0AB9db61re6MxynM07Lrk.duV98NS6L85ktmtu3Si",
+   "devices": ["21061110AG5DB4CA10A9A93F5F"],
+   "expiry": "27-07-2024 12:00 PM"
+},
+"fian0007": {
+   "password": "$2y$12$vrPFZY6AHMQC1dXr5uv0SOaPwLgecoyj54u.bDmEAVAUJ9ulQVAX.",
+   "devices": ["M2007J20CG46F35B4B9468939B"],
+   "expiry": "27-07-2024 12:00 PM"
+},
+"fian0008": {
+   "password": "$2y$12$sI1uv7OXAXqcmuLu9N1fC.t5Bi/asVMienKdw8/L.ZxfK5vsd2f/e",
+   "devices": ["M2007J20CG408354E10DEE357A"],
+   "expiry": "27-07-2024 12:00 PM"
+},
+"fian0009": {
+   "password": "$2y$12$xsS2P1yTNua7N53A/NlmOu0vk5K4DhRVQkrpcNTxdGeoq7AFVYlhK",
+   "devices": ["21081111RG54BCF66E1797F7FF"],
+   "expiry": "27-07-2024 12:00 PM"
+},
+"fian00010": {
+   "password": "$2y$12$akOVs7gEFiOSz3j32Tkkc.ARQ/biL.iDaN46F24w6ouct5CL0rYUS",
+   "devices": ["21081111RGB4E6178DC3F787CB"],
+   "expiry": "27-07-2024 12:00 PM"
 },
 }
