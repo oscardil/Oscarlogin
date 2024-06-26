@@ -1293,4 +1293,9 @@
    "devices": ["21081111RGB4E6178DC3F787CB"],
    "expiry": "27-07-2024 12:00 PM"
 },
+"jerzy0001": {
+   "password": "$2y$12$.4nuqVgNg/BqgC4hrJBsmuXtvcbfVir7UJAph84DiOeK4psU.rsfO",
+   "devices": ["2107113SG3551018A3C3DE894"],
+   "expiry": "27-07-2024 12:00 PM"
+},
 }
