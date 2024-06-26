@@ -1298,4 +1298,9 @@
    "devices": ["2107113SG3551018A3C3DE894"],
    "expiry": "27-07-2024 12:00 PM"
 },
+"jemmy002": {
+   "password": "$2y$12$fo.D4JykslWsV2hjf4dNAOb9ZLhfq8ryFeQW8EXjxphJsWo9/a2lC",
+   "devices": ["INFINIXX689BD7FE40F023A2ED8C"],
+   "expiry": "27-07-2024 12:00 PM"
+},
 }
