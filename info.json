@@ -282,12 +282,12 @@
 "alan0005": {
    "password": "$2y$12$6ruWRjlfpG7JOynwJsx0weFy/RDTXPOOVHS84CwZHeC9OV9hLOH0O",
    "devices": ["22071212AGA66B825E935E7786"],
-   "expiry": "25-06-2024 12:00 PM"
+   "expiry": "25-07-2024 12:00 PM"
 },
 "alan0006": {
    "password": "$2y$12$wibK1kWDiJ5Jv0ox5xVI7uiGT5.uW3UmN3KT08hNaQ1sFEaXbMAIe",
    "devices": ["22071212AGE74091771A84C63C"],
-   "expiry": "25-06-2024 12:00 PM"
+   "expiry": "25-07-2024 12:00 PM"
 },
 "alan0007": {
    "password": "$2y$12$.S.WJdQUOKB1CKfgDjZW7O6gDSpTM1s1tUqX3ZeGjYqKxH69zWJ2i",
@@ -1301,6 +1301,11 @@
 "jemmy002": {
    "password": "$2y$12$fo.D4JykslWsV2hjf4dNAOb9ZLhfq8ryFeQW8EXjxphJsWo9/a2lC",
    "devices": ["INFINIXX689BD7FE40F023A2ED8C"],
+   "expiry": "27-07-2024 12:00 PM"
+},
+"veky0009": {
+   "password": "$2y$12$uTayNBDn5yBgB0POvBHFVOq5xgxVVBgmByj163UNgNMBRQAQtDsnq",
+   "devices": ["INFINIXX6815BF8791D2351F3E469"],
    "expiry": "27-07-2024 12:00 PM"
 },
 }
