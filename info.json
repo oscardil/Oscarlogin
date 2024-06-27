@@ -1308,4 +1308,9 @@
    "devices": ["INFINIXX6815BF8791D2351F3E469"],
    "expiry": "27-07-2024 12:00 PM"
 },
+"valentino": {
+   "password": "$2y$12$pbSffqXj2VGobrpO/oQttu1kEdelZI651FnkiomVU48V1HX0L08f2",
+   "devices": ["22101316GF1127DC115A1C66D"],
+   "expiry": "28-07-2024 12:00 PM"
+},
 }
