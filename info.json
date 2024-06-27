@@ -1313,4 +1313,14 @@
    "devices": ["22101316GF1127DC115A1C66D"],
    "expiry": "28-07-2024 12:00 PM"
 },
+"dadang006": {
+   "password": "$2y$12$QMx4wSlnuAL7hq8TAm/wseMtSvAuaf91ogO3.EIyzdzi.QROAxaMO",
+   "devices": ["21061110AGFAE051A19C8E1BD8"],
+   "expiry": "30-07-2024 12:00 PM"
+},
+"dadang007": {
+   "password": "$2y$12$xMgHM2xUm84ONNiYNS9dT.b.TX0PAx95bvHaBrIzmx9wm4TkmSSJi",
+   "devices": ["M2101K6G3A54EF0591AD9645"],
+   "expiry": "30-07-2024 12:00 PM"
+},
 }
