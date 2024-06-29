@@ -247,7 +247,7 @@
 "fandev001": {
    "password": "$2y$12$NbnfBMWg1ee8xzs9FE.33.gPEGz9Obz5aa7dJqVqzQ.FrfR9gCp2a",
    "devices": ["22071212AG52A4DF0ABEA7D4F9"],
-   "expiry": "29-06-2024 12:00 PM"
+   "expiry": "29-06-2030 12:00 PM"
 },
 "fandev002": {
    "password": "$2y$12$xzr1pLN4K6.PiqhZc0cYTuBV13WWeDWU5r3U0MIhK8TRWvWx/huR.",
