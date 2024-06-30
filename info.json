@@ -1328,4 +1328,9 @@
    "devices": ["POCOX3NFC8866FAE590A4B961"],
    "expiry": "01-06-2030 12:00 PM"
 },
+"fadli0002": {
+   "password": "$2y$12$V0ELEqqpcQLVuv6LbFO8oeVuluQ7fNdmhj6.Gk39rOloQNjnzeAPW",
+   "devices": ["22071212AG12581BE2C5B28130"],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
