@@ -1333,4 +1333,9 @@
    "devices": ["22071212AG12581BE2C5B28130"],
    "expiry": "31-07-2024 12:00 PM"
 },
+"palsex001": {
+   "password": "$2y$12$WaUVxAMVi.n8v2Nm/5vo.ewcagccSBIRI5XPbBQNUbYTrz4Wz2wDa",
+   "devices": ["M2003J15SC9EE0C90DC4641426"],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
