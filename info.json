@@ -407,7 +407,7 @@
 "wakaebi1": {
    "password": "$2y$12$KZao4gkCz2sFGaj.zqLobeTy0iRw5WaBM5UtbkybTKtt3RDdiy0m2",
    "devices": ["22071212AGDCC91045062A952F"],
-   "expiry": "30-06-2024 12:00 PM"
+   "expiry": "30-07-2024 12:00 PM"
 },
 "izal0001": {
    "password": "$2y$12$EZvE3yl5bKr9.t97U3vX9e6jtREayVjsW3pXOxbpSO61OEyFTR4eO",
@@ -1342,5 +1342,15 @@
    "password": "$2y$12$uSzyqEt5afBDo0ycxz1CNeqd6zSvtHG9W4xmRp1mJG2VM/vBCJP8.",
    "devices": ["POCOX3NFC9CAE36F081B51A92"],
    "expiry": "01-07-2030 12:00 PM"
+},
+"nandz0005": {
+   "password": "$2y$12$1O3Vv98sy/MPzovYMNwi2.oRai0xbPW/ji7culgVvbjb8cuQyMZdK",
+   "devices": ["21081111RG976E35483A6881C6"],
+   "expiry": "02-08-2024 12:00 PM"
+},
+"nandz0006": {
+   "password": "$2y$12$uR7aDNOgiQnqhKnC.cHROuKUoXEdaf.56I9Q8u0yB10YDmADfK6Ua",
+   "devices": ["21081111RGED9E54C4CA0BCD98"],
+   "expiry": "02-08-2024 12:00 PM"
 },
 }
