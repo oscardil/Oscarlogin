@@ -1358,4 +1358,39 @@
    "devices": ["INFINIXX6837BF5AB5A59E8D9FC6"],
    "expiry": "02-08-2024 12:00 PM"
 },
+"paschal001": {
+   "password": "$2y$12$7JDcmlfCZ4bt4bORacIpv.bYtBWBVLnkkWfcOKqIi6zlw226hILuW",
+   "devices": ["M2007J3SYC0886DBAC7C9C588"],
+   "expiry": "02-08-2024 12:00 PM"
+},
+"paschal002": {
+   "password": "$2y$12$WxM8EZcb2jq/OrUoZaumkuefZXLKSBKebTo4XjvJ5feejkrLeyz3.",
+   "devices": ["21061110AG7FE6DC38709A61AC"],
+   "expiry": "02-08-2024 12:00 PM"
+},
+"paschal003": {
+   "password": "$2y$12$StYJyS30bi45XLbxD8H2BOh9bW3E0nByN6240ppWf4S6CErpt/lBm",
+   "devices": ["22071212AGFEC5680416E5C46C"],
+   "expiry": "02-08-2024 12:00 PM"
+},
+"paschal004": {
+   "password": "$2y$12$Nm4jhEU2Hui6lq86KOboJOaft2.XlYdvi.v2rqVWV.JKWxRCv1S7u",
+   "devices": ["21061110AG821082F93A6828FC"],
+   "expiry": "02-08-2024 12:00 PM"
+},
+"paschal005": {
+   "password": "$2y$12$0T3gg7kxxJOaINYfnKK7QelMEzCH7WHTl79ELwXGZAwRirulGaoPS",
+   "devices": ["22071212AG17A60CC9DC1655F4"],
+   "expiry": "02-08-2024 12:00 PM"
+},
+"paschal006": {
+   "password": "$2y$12$NhMXnRdFBiZookLnZhn9c.7JWFU4l8kIiLqE85CS2hPht8NCYrJo6",
+   "devices": ["22071212AG9537692C74C68A1E"],
+   "expiry": "02-08-2024 12:00 PM"
+},
+"paschal007": {
+   "password": "$2y$12$kb4uGWnOcbEDX3quECXHo./2PDSwoPpxNxENO9uQcT8ur.gjRPW9K",
+   "devices": ["22071212AG55E5B26FA458FDAF"],
+   "expiry": "02-08-2024 12:00 PM"
+},
 }
