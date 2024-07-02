@@ -1398,4 +1398,9 @@
    "devices": ["22071212AGC20362C057F00C20"],
    "expiry": "03-08-2024 12:00 PM"
 },
+"didi0004": {
+   "password": "$2y$12$ivNbktWWbkM/Mq5Hws91Hel/rtrQ8FqwBwQcdryB7/hL6c2JDmJFu",
+   "devices": ["CPH2209F6DEE5DB31743ACE"],
+   "expiry": "10-08-2024 12:00 PM"
+},
 }
