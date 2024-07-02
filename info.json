@@ -1393,4 +1393,9 @@
    "devices": ["22071212AG55E5B26FA458FDAF"],
    "expiry": "02-08-2024 12:00 PM"
 },
+"linux001": {
+   "password": "$2y$12$xkqVjjx0D.xZPcRdbtlDdebrc2P5no9e6inqXBJeh3rJeKLM6Z4eC",
+   "devices": ["22071212AGC20362C057F00C20"],
+   "expiry": "03-08-2024 12:00 PM"
+},
 }
