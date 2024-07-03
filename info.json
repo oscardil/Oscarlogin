@@ -1403,4 +1403,9 @@
    "devices": ["CPH2209F6DEE5DB31743ACE"],
    "expiry": "10-08-2024 12:00 PM"
 },
+"rizal0002": {
+   "password": "$2y$12$2HuYog2Ve0C4mFFsmdc8Eum9CAeGb33n6aecGEhzdDqR5BCDbNiA.",
+   "devices": ["CPH22351072BC7B24116C56"],
+   "expiry": "05-08-2024 12:00 PM"
+},
 }
