@@ -412,7 +412,7 @@
 "izal0001": {
    "password": "$2y$12$EZvE3yl5bKr9.t97U3vX9e6jtREayVjsW3pXOxbpSO61OEyFTR4eO",
    "devices": ["CPH22351072BC7B24116C56"],
-   "expiry": "30-06-2024 12:00 PM"
+   "expiry": "04-08-2024 12:00 PM"
 },
 "veky0001": {
    "password": "$2y$12$i3pKrUF9SVCTq59V0/o/rOn33Se9MR/CZwYa7G8eTklInjHDAJYTa",
@@ -1402,10 +1402,5 @@
    "password": "$2y$12$ivNbktWWbkM/Mq5Hws91Hel/rtrQ8FqwBwQcdryB7/hL6c2JDmJFu",
    "devices": ["CPH2209F6DEE5DB31743ACE"],
    "expiry": "10-08-2024 12:00 PM"
-},
-"rizal0002": {
-   "password": "$2y$12$2HuYog2Ve0C4mFFsmdc8Eum9CAeGb33n6aecGEhzdDqR5BCDbNiA.",
-   "devices": ["CPH22351072BC7B24116C56"],
-   "expiry": "05-08-2024 12:00 PM"
 },
 }
