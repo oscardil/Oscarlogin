@@ -1413,4 +1413,9 @@
    "devices": ["M2012K11AGA2D932AAA7799403"],
    "expiry": "05-08-2024 12:00 PM"
 },
+"ginal0001": {
+   "password": "$2y$12$oLs1u5bLfuZ.JrsWMYM42OOyKcNyOTr5.ZNBw5X7QW3WjDcVN/O/a",
+   "devices": ["21081111RG9DBD2981E68C50CE"],
+   "expiry": "04-08-2024 12:00 PM"
+},
 }
