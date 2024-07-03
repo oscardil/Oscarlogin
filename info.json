@@ -1403,4 +1403,14 @@
    "devices": ["CPH2209F6DEE5DB31743ACE"],
    "expiry": "10-08-2024 12:00 PM"
 },
+"john0007": {
+   "password": "$2y$12$TFX/V/e9a2Ua3ENRgcj3yutUIgi22tMeTjnG3aEvVBoVdB.Ox7R4G",
+   "devices": ["M2012K11AG51F1E9C1A0792EBB"],
+   "expiry": "05-08-2024 12:00 PM"
+},
+"john0008": {
+   "password": "$2y$12$E5V4Rkx2uNuCWbY6gMS9TunDC6MCGFb9p2RyK8QdporeUK6vvVwMm",
+   "devices": ["M2012K11AGA2D932AAA7799403"],
+   "expiry": "05-08-2024 12:00 PM"
+},
 }
