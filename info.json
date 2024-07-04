@@ -1428,4 +1428,9 @@
    "devices": ["2107113SG137A3E1E000F8D92"],
    "expiry": "05-08-2024 12:00 PM"
 },
+"jermas01": {
+   "password": "$2y$12$muikfChXEfpLSBZZrKP7Mu4IKgyCRQdwWTieuL7QIQapyko4BM1qW",
+   "devices": ["21061110AG9DEEC967A180C7A3"],
+   "expiry": "01-07-2030 12:00 PM"
+},
 }
