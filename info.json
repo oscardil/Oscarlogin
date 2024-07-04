@@ -1448,4 +1448,9 @@
    "devices": ["21061110AGED55BF74EAB4AA66"],
    "expiry": "01-07-2030 12:00 PM"
 },
+"oji12345": {
+   "password": "$2y$12$TL8mQl1B2Qz2RXuI5oMos.DA.DWHjQKEAjbL789I5x0.zNQXDsQs6",
+   "devices": ["ASUSI003DD695B18FD0C256F3C"],
+   "expiry": "01-07-2030 12:00 PM"
+},
 }
