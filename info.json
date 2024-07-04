@@ -1433,4 +1433,14 @@
    "devices": ["21061110AG5A30CB144F0F0180"],
    "expiry": "01-07-2030 12:00 PM"
 },
+"iboentingtong": {
+   "password": "$2y$12$dCEPI0roS0ppHF8XwkXJYeDV2bC1UKdchkPVkRZrFhLwOd5unbr2i",
+   "devices": ["POCOPHONEF15AEC6096B836D74B"],
+   "expiry": "01-07-2030 12:00 PM"
+},
+"agung0001": {
+   "password": "$2y$12$qJtOg04vS2cciKOZKiWOyenbvazP7OiMGbIBaUnNlAlN3B1EM8W6W",
+   "devices": ["TECNOLE760EDE5A6FD693132"],
+   "expiry": "08-08-2024 12:00 PM"
+},
 }
