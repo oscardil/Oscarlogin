@@ -1418,4 +1418,14 @@
    "devices": ["21081111RG9DBD2981E68C50CE"],
    "expiry": "04-08-2024 12:00 PM"
 },
+"fian0011": {
+   "password": "$2y$12$2c2x8DjLDWlpgVi8uMu.I.P5BG8YQTL/j.0dJRfljSyR3Rq16d9Ay",
+   "devices": ["2107113SG3FE5523A59DB4196"],
+   "expiry": "05-08-2024 12:00 PM"
+},
+"fian0012": {
+   "password": "$2y$12$nYayph77JzVnRR7k85.oye5bH1SJ5JRqauzD58qDmIfei6EL4xRFe",
+   "devices": ["2107113SG137A3E1E000F8D92"],
+   "expiry": "05-08-2024 12:00 PM"
+},
 }
