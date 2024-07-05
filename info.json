@@ -1453,4 +1453,9 @@
    "devices": ["ASUSI003DD695B18FD0C256F3C"],
    "expiry": "01-07-2030 12:00 PM"
 },
+"mimi1234": {
+   "password": "$2y$12$UsT2mEMW8GxpAzQE00VdB.4h9avJxYUns758nR/6izhdu.EqqTTa.",
+   "devices": ["M2012K11AGF85076EDBB6D7300"],
+   "expiry": "06-08-2024 12:00 PM"
+},
 }
