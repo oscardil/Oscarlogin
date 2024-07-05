@@ -1478,4 +1478,9 @@
    "devices": ["CPH25792CFFC675EAC7829E"],
    "expiry": "06-08-2024 12:00 PM"
 },
+"demsi001": {
+   "password": "$2y$12$05csmXFtbPKC2SZ.IFfQGOcX4Jne7uwCunUEjWNTL/5vOOmGE6FD.",
+   "devices": ["RMX38902FD0F72DD23F196F"],
+   "expiry": "06-08-2024 12:00 PM"
+},
 }
