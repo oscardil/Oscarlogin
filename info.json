@@ -712,7 +712,7 @@
 "cha20004": {
    "password": "$2y$12$OgINT1WDq7XHLSLxK6R1E.OpjuUgFDCUzosoOpucO8kCr79MTE2MG",
    "devices": ["2107113SG99016126279E171D"],
-   "expiry": "05-07-2024 12:00 PM"
+   "expiry": "05-08-2024 12:00 PM"
 },
 "cha20005": {
    "password": "$2y$12$vG3lRhbkCMOFQrItJ/XRyOw9BMWHO6q4EvpKWW2j94D3zngfchjC.",
@@ -772,7 +772,7 @@
 "giggs001": {
    "password": "$2y$12$290D/y1eyYhWpvM97Pw4Ze2KXgKIPohKm.rzdcMIBvK6ROntY74m2",
    "devices": ["22071212AG9964F5F5F97DBC67"],
-   "expiry": "05-07-2024 12:00 PM"
+   "expiry": "05-08-2024 12:00 PM"
 },
 "giggs002": {
    "password": "$2y$12$NQc1WsAvN9k8iIR/3f2F1O5OyGEvnG9fe9xXrFLt0riCCJLvfRFK6",
@@ -782,12 +782,12 @@
 "giggs003": {
    "password": "$2y$12$d3HBA4Wfzl9z1GLb.9c/feBc0sJ76phGHVvAHGsc7zWBLGLbzyNiG",
    "devices": ["21061110AGBCFE5669AB8D60B3"],
-   "expiry": "05-07-2024 12:00 PM"
+   "expiry": "05-08-2024 12:00 PM"
 },
 "giggs004": {
    "password": "$2y$12$WiwWyo4/yC657YGoY75aBulmlNouhgzb/ugXzfCYFLeFMwyITX3P2",
    "devices": ["M2003J15SCF5F8D95910F584A3"],
-   "expiry": "05-07-2024 12:00 PM"
+   "expiry": "05-08-2024 12:00 PM"
 },
 "maikelcia": {
    "password": "$2y$12$241Nj0v5AIceaEDlmjsOK.a6f99eNh564uuiLttle9AQDGdUPGYGO",
@@ -797,7 +797,7 @@
 "giggs005": {
    "password": "$2y$12$jAUHBV2IcwDHd4MBUWe3yefjeLuo22vwYhMmctiwliS/wAnSOX7RK",
    "devices": ["22071212AG70A19DD20BB3AD40"],
-   "expiry": "06-07-2024 12:00 PM"
+   "expiry": "06-08-2024 12:00 PM"
 },
 "deny0001": {
    "password": "$2y$12$QrizIE72K2o6mgeBpJfv0upUy7whPDGoakFS2TvBVhhnsLqeynWH2",
@@ -1467,5 +1467,15 @@
    "password": "$2y$12$fFE85KmOnxionPO5GZwmVex6K/YccXI0R2MOcg5F57d2zZjWUqkRm",
    "devices": ["REDMINOTE9PRO64B7D20B23C8E2F1"],
    "expiry": "01-07-2030 12:00 PM"
+},
+"aldyrebo1": {
+   "password": "$2y$12$yyKz3jZ8TYPzdyMskLREa.nwegnZwTj3HrOC3LLmmTv5z0bP5zkMG",
+   "devices": ["21061110AG97AFA8D3F52BFD2D"],
+   "expiry": "01-07-2030 12:00 PM"
+},
+"denni001": {
+   "password": "$2y$12$IlhLSfG5.8kz7vmCkr.vke5CnO4McbwtuSLAXEUGsJAoF3X3UkW6O",
+   "devices": ["21061110AG97AFA8D3F52BFD2D"],
+   "expiry": "06-08-2024 12:00 PM"
 },
 }
