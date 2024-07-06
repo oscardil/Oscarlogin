@@ -1513,4 +1513,9 @@
    "devices": ["21061110AG8A560B4E67562AE5"],
    "expiry": "01-07-2030 12:00 PM"
 },
+"abdi0007": {
+   "password": "$2y$12$SIbvizEPh3ck1yHBHQGX1e6oKM1b.UzqvARl70gu6/N9OMAFastXm",
+   "devices": ["M2012K11AG333F43D5796152E9"],
+   "expiry": "01-09-2024 12:00 PM"
+},
 }
