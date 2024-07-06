@@ -1508,4 +1508,9 @@
    "devices": ["POCOPHONEF1D2E2F6C4A0D6B4AD"],
    "expiry": "01-07-2030 12:00 PM"
 },
+"jermas02": {
+   "password": "$2y$12$YHTb0ljqaGgcBSuXMWFSmuQinZ0P/beaV3rRqySQnzaM8zoHUHltW",
+   "devices": ["21061110AG8A560B4E67562AE5"],
+   "expiry": "01-07-2030 12:00 PM"
+},
 }
