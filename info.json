@@ -1523,4 +1523,9 @@
    "devices": ["21081111RGDA58D21B097B5BAB"],
    "expiry": "08-08-2024 12:00 PM"
 },
+"gupzz701": {
+   "password": "$2y$12$/LGL8En/cQ63dWdtfxcsBO2Mli.FkYkumDRkYZJO45cZ4RHYK/RqG",
+   "devices": ["21081111RGA9DBF9F3E9239D26"],
+   "expiry": "08-08-2024 12:00 PM"
+},
 }
