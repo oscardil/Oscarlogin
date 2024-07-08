@@ -1528,4 +1528,9 @@
    "devices": ["21081111RGA9DBF9F3E9239D26"],
    "expiry": "08-08-2024 12:00 PM"
 },
+"dadang0002": {
+   "password": "$2y$12$KnQD006HFrON3tPGMSq1lulFcZeQVbhgd2awBey.MO6UbpRQoXtU.",
+   "devices": ["22071212AGB7F4A127DF42D534"],
+   "expiry": "31-07-2024 12:00 PM"
+},
 }
